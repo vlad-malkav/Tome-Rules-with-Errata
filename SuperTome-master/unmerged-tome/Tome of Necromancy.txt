@@ -1,0 +1,1615 @@
+Tome of Necromancy
+
+Unlike the Revised Necromancer Handbook, which is a compilation of the Necromancy rules as they stand, what you are reading now is the rules for Necromancy as they should be. We feel there is a need for this because despite (or let's not kid ourselves, because of) the considerable amount of space spent given over to Necromancy in officially sanctioned products, the classical Necromancer does not function under the rules as written. Vampires can't run or be staked, there aren't any prestige classes that make you any more of a necromancer than you are with the base classes, and honestly noone even knows how the basic necromancy spells work. Not because they are stupid, but because the rules for such things are contradictory in several key places.
+
+The Morality of Necromancy: Black and Gray
+
+The rules of D&D attempt to be all things to all people, and unfortunately that just isn’t possible if you’re trying to make a system of objective morality. By trying to cater to two very different play styles as regards to the moral quandaries of the use of negative energy, the game ends up catering to neither – and this has been the cause of a great many arguments for which there actually are no possible resolutions. Ultimately therefore, it falls to every DM to determine whether in their game the powers of Necromancy are inherently evil, or merely extremely dangerous. That’s a choice which must be made, and has far reaching implications throughout the game. That’s an awful lot of work, and most DMs honestly just don’t care enough to be bothered with it, and I understand. Fortunately, we have collated those changes for you right here:
+
+Moral Option 1: The Crawling Darkness
+
+Many DMs will choose to have Negative Energy in general, and undead in particular, be inherently Evil. So much so that we can capitalize it: Evil. And say it again for emphasis: Evil. That means that when you cast a negative energy wave you are physically unleashing Evil onto the world. When you animate a corpse, you are creating a being whose singular purpose is to make moral choices which are objectionable on every level.
+
+That’s a big commitment. It means that anyone using Inflict Wounds is an awful person, at least while they are doing it. The Plane of Negative Energy is in this model the source of all Evil, more so than the Abyss or Hell. It’s Evil without an opinion, immorality in its purest most undiluted form.
+
+Moral Option 2: Playing with Fire
+
+Many DMs will choose to have Negative Energy be a base physical property of the magical universe that the D&D characters live in – like extremes of Cold or Fire it is inimical to life, and it is ultimately no more mysterious than that. An animate skeleton is more disgusting and frightening to the average man than is a stone golem, but it’s actually a less despicable act in the grand scheme of things because a golem requires the enslavement of an elemental spirit and a skeleton has no spirit at all.
+
+The Plane of Negative Energy in this model is precisely the same as all the other elemental planes: a dangerous environment that an unprotected human has no business going to.
+
+Implications:
+
+It’s not actually enough to simply make a sweeping generalization about the morality of Negative Energy and leave it at that. Like a butterfly flapping its wings, such changes will eventually cause Godzilla to destroy Tokyo. Or something like that, I stopped math at Calculus.
+
+Creatures
+
+Some monsters have been written up with the (incorrect) assumption that either “The Crawling Darkness” or “Playing With Fire” was the general rule. Others have been written in such a fashion that is actually incompatible with any possible interpretation of morality in D&D.
+
+Revenants: If Negative Energy is inherently Evil, Revenants are Lawful Evil. They are undead who live only to kill and survive on hatred and the desire for vengeance. While they are victims and their actions are understandable, the Justice of their actions makes them Lawful, but they are still Evil and can be treated accordingly.
+
+With the Playing with Fire option, there is no change to the Revenant. All is fair in avenging your own death, and they are the unliving emissaries of the Balance in its pure form.
+
+Skeletons: If Negative Energy is inherently Evil, Skeletons must be as well. That means that they actually do Evil things. An uncontrolled skeleton will find the nearest source of life and start ripping it to pieces. A skeleton does not need to be commanded to attack, but to stop tearing up your vegetable garden (assuming even that it had not already found a more vigorous source of life such as the family dog). A commanded skeleton is a vicious, unthinking killer on a chain – not an inert construct awaiting commands.
+
+If Negative Energy isn’t Evil by itself, neither are skeletons. As described they aren’t moral agents. That means that they don’t have an alignment other than Neutral. Like a viper or a scorpion, though they do things that a paladin wouldn’t necessarily condone (such as use poison for the snake or move around after death for the skeleton), they aren’t gifted with the ability to make moral choices and default to the same Neutrality of the animated cabinet. Ordering a skeleton around could be Good, Evil, or Neutral depending on whether you are telling it to save children from a burning house, throw bloated corpses into the town well, or just carry your swag out of your basement.
+
+Vampires: Vampires are the rockstars of the undead world, but also the most affected by the gulf between Playing With Fire and Crawling Darkness Necromancy. Either vampires are tragically cursed Euro-trash with nice outfits or they are blood hungry princes of death…heck, sometimes they are depicted as both, as in the case of the patron saint of DnD vampires, Strahd Von Zarovich.
+
+Unlike most undead, vampires are morally affected by negative energy in a perversely contrary fashion; Zombies are evil if (and only if) negative energy makes zombies evil, but the opposite is true of the vampire. If Negative energy is a hungry and malevolent force that hungers for the light of the living, the vampire is a tragic figure compelled by dark desires he cannot control. He can even just be Good, but that’s not going to stop him from taking a nip from the farmer’s daughter. If negative energy is an objective force, then being a vampire is actually an evil act since you don’t have to eat babies for eternal life… you’re just a jerk. 
+
+Zombies: Like Skeletons, Zombies must hunger for the flesh of the living or have no moral indictments. Either they sit and wait for their chance to devour your liver or they are Neutral. The Monster Manual version cannot stand. A zombie in the fields is either a figure of horror or comedy.
+
+Energons: Eregons are actually made out of energy. So if Positive and Negative Energy have an alignment, so do they. If using the Crawling Darkness option, the Xag-Ya is Neutral Good, and the Xeg-Yi is Neutral Evil. If using the Playing With Fire option, both remain as printed – they are Neutral.
+
+Spells:
+
+Animate Dead: If Negative Energy isn’t Evil, this spell isn’t either. Zombies and Skeletons are the only possible creations of this spell, so the alignment tag is contingent on Negative Energy itself being a moral choice. Interestingly, create undead and create greater undead stay [Evil] even if animate dead doesn’t. Regardless of the moral inclinations of negative energy in general, Ghouls and shadows are just not nice people – they are a disease that exists for no purpose but to consume the living. So those [Evil] tags are on no matter what skeletons do with their free time.
+
+Deathwatch: This spell doesn't even use Negative Energy, it allows you to see positive energy. There's no reason for this spell to be evil no matter what version you use – this is just a typographical error as far as we can tell. Maybe this evil tag was supposed to be on death knell.
+
+Create Undead: While animate dead may or may not be evil depending upon your setup, create undead and create greater undead is an [Evil] spell regardless of the morality version you use. It creates evil creatures that unlive for nothing but to slay innocents, so it gets the Evil tag for the same reason that planar binding gets the [Evil] tag if it is used to call a Demon – it's bringing irredeemable evil into the world – the moral implications of the negative energy used are irrelevant. 
+
+Necromancy with Class
+
+The degree to which the published classes of Necromancy aren’t good causes people physical pain. The degree of malarkey that people are willing to attempt in order to use these classes in a half-way level appropriate way causes us physical pain. While the flavor of published necromantic classes is frequently adequate or even engaging – the mechanics just aren’t there. You shouldn’t have to cheat just to make a concept character nearly the equal of a standard Cleric or Wizard. As a solution, we propose having actually mechanically viable prestige classes for the necromantically inclined to use:
+
+Corpselight Whisperer
+
+"Come into my house, it is warm and the nights are both cool and damp in the swamp."
+
+The bogs of the Bane Mires are stagnant and reek with the stench of decay. But while they are a boundless well of sickness and death, they are also part of nature, at least according to the merciless will-o-wisps that live there. There are few even among the druids who are willing to make their home in such an inhospitable land. But there are secrets to be learned, for those who with a keen ear and a light step. For while the corpse lights may share their secrets, they may also lead one into the fast bogs from which there is no escape.
+
+There is a side of nature that few admit the existence of, and even fewer have seen first hand. It is dangerous and cruel, filled with moldering corpses and rank spoilage. But it is perhaps not as different from the forests of home as the elders would have one believe…
+
+Prerequisites:
+Skills Knowledge(Nature) 4 ranks, Listen 4 ranks, Survival 9 ranks
+Special: Ability to wild shape
+Special: Must have made friendly contact with a Will-o-Wisp.
+Hit Die: d8
+Class Skills: Concentration (Con), Climb (Str), Craft (Int), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Knowledge (nature) (Int), Knowledge (religion) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Spellcraft (Int), Spot (Wis), Survival (Wis), and Swim (Str).
+Skill Points/Level: 4 + Int modifier
+BAB: Medium (3/4), Saves: Fort: Poor; Reflex: Good; Will: Good
+
+Level, Abilities:
+1 Spell-like Abilities: Animate Dead, +1 Spellcaster Level
+2 Wildshape: Will-O-Wisp, +1 Wildshape Use, +1 Spellcaster Level
+3 Spell-like Abilities: Dancing Lights, Terrible Nectar, +1 Spellcaster Level
+4 Summon Wisps, +1 Wildshape Use, +1 Spellcaster Level
+5 Wildshape: Large Plant, Sanctum Spell, +1 Spellcaster Level
+6 Bonus Domain (Deathbound), +1 Spellcaster Level
+7 Spell-like Abilities: Programmed Image, +1 Wildshape Use +1 Spellcaster Level
+8 Bog’s Heart, Bonus Necromantic Feat +1 Spellcaster Level
+9 Hands of the Corpselight, +1 Spellcaster Level
+10 Incorporeal Wildshape 1/day, +1 Spellcaster Level
+
+Weapon and Armor Proficiencies: The Corpselight Whisperer gains no new armor or weapon proficiencies.
+
+Spellcasting: Every level, the Corpselight Whisperer casts spells (including gaining any new spell slots and spell knowledge) as if she had also gained a level in a spellcasting class she had previous to gaining that level. 
+
+Spell-like Abilities (Sp): A Corpselight Whisperer can use animate dead as a spell-like ability. At 3rd level, she is able to use dancing lights, and at 7th level she is able to use programmed image.Her caster level is equal to her hit dice, and these abilities are usable at will.
+
+Wildshape: At 2nd level, a Corpselight Whisperer can use her Wildshape ability to assume the form of a Will-o-Wisp, regardless of the allowed size, type, or hit dice of her Wildshape ability. Becoming a Will-o-Wisp in this manner gives the Whisperer all of the Will-o-wisp's Extraordinary abilities and Weapon Finesse as a bonus feat. At level 7, the Whisperer can use her Wildshape ability to assume the form of a Plant of up to Large size. Becoming a Plant in this fashion uses the normal rules for a Druid's Wildshape ability. The Corpselight Whisperer may use her Wildshape ability one extra time per day at levels 2, 4, and 7. Levels in Corpselight Whisperer stack with levels in other Wildshaping classes for the purposes of maximum hit dice and duration.
+
+Terrible Nectar (Su): At 3rd level the Corpselight Whisperer gains sustenance from the terror of others. If she is within 60 feet of an intelligent creature that is affected by a fear effect, she needs one less meal that day and can get by with 2 hours less sleep. If such a creature is killed while under the influence of a fear effect and within 60 feet of her, she does not need to eat or sleep that day at all.
+
+Summon Wisps (Su): A Whisperer of 4th level or higher can summon Will-O-Wisps to aid her. The wisps serve faithfully for one hour and then vanish. The Whisperer can summon one wisp for every two class levels each day, and can choose to summon all of them at once or to conjure them in smaller groups as desired.
+
+Bonus Feat: At 5th level, the Corpselight Whisperer gains Sanctum Spell as a bonus feat. A magical sanctum created in this manner must be in a marshy natural setting (though it does not have to be a structure). At 8th level, the Corpselight Whisperer gains an additional Necromantic Creation Feat that she meets the prerequisites for as a bonus feat.
+
+Bonus Domain: At 6th level, the Whisperer gains the Deathbound Domain as a bonus domain. She gains the granted ability (to animate 50% more undead with each use of animate dead), and can prepare one extra domain spell at every spell level using the normal rules for domain spell preparation,
+
+Bog's Heart (Su): A Corpselight Whisperer of 8th level or higher who dies is reincarnated 1d10 days later in the middle of her magical sanctum, provided that no one has cut off her magical sanctum in the meantime (either by physically making the area into something other than a swamp, or through magic such as desecrate). Being reincarnated in this fashion does not result in level loss and costs no XP. Unlike the normal spell, the Corpselight Whisperer will return with a new young adult body if he dies by reaching his maximum age.
+
+Hands of the Corpselight (Ex): Like a Will-o-Wisp, a Corpselight Whisperer of 9th level can deliver powerful electric shocks. Any touch or natural weapon attack of the Corpselight Whisperer can also inflict 2d8 of electricity damage (even if it would already inflict electricity damage).
+
+Incorporeal Wildshape (Su): A Corpselight Whisperer of 10th level or higher can Wildshape into an Undead creature with the Incorporeal subtype. The Whisperer gains all of the assumed form’s Extraordinary, Supernatural, and Spell-like abilities. The Corpselight Whisperer may only Wildshape in this manner once per day, but if she would gain additional uses of Elemental Wildshape for any reason, she gains an equal number of additional uses of Incorporeal Wildshape.
+
+Uttercold Assault Necromancer
+"Coooooooobraaaaaaaaa!"
+The living dead can make terrifically efficient soldiers, fearless and untiring. However, mindless undead are less than ideal in many respects, being unable to take initiative or respond to changing battlefield conditions. Sentient undead are therefore the pinnacle of soldiering, but since they are not mindless, they must be lead. 
+
+For political reasons, the living dead are seldom permitted to serve as their own officers; instead, fearful mortal authorities insist that they must be placed under the command of the living. However, if such officers hope to win the respect of their troops, they must be magically powerful in their own right, as well as charismatic and subtly tainted by the touch of death. Such officers learn not only to lead and motivate sentient undead on the battlefield, but to support their forces with cold and death related magic. 
+
+Not only are the undead fearless, but they are also perfectly disciplined, do not do damage to the civilian infrastructure, and do not require forage to survive. In order to maintain discipline, and in response to the hatred and fear in which their forces are held, these officers hold themselves to the highest standard of military ethics. A degree of political aptitude also serves such officers well, as their forces are almost guaranteed to be given the most dangerous and least desirable missions. The stringent requirements of this class demand commitment from a young age, so most Uttercold Assault Necromancers are apprenticed in their teens. Being in such scarce supply, they are absolutely required to train apprentices in turn to join the officer corp. 
+
+Prerequisites:
+Feats: Energy Substitution (Cold), Lord of the Uttercold, Tomb Tainted Soul, Mentor (exchanged for apprentice).
+Spells: Must be able to cast at least three spells from the Necromancy school, of which at least one must be third level or higher, and at least one spell with the cold descriptor. 
+Skills: Concentration 9 Ranks, Knowledge (Planes) 9 Ranks, Language (Battle Signals), Speak Language (Semaphore Battle Signals). 
+Alignment: Cannot be chaotic.
+Special: Must hold officer's rank (Rank 3+, see Heroes of Battle) in a military or paramilitary organization that includes elite units of sentient undead. 
+Special: Your apprentices (from the Mentor feat) must also be junior officers in your military organization (Rank 1+).
+Note: If you are using Playing with Fire, the Necromantic Commander aura does not have an alignment requirement, and neither does Tomb Tainted Soul. 
+
+Class Skills: The Uttercold Assault Necromancer's class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Craft (Int), Diplomacy (Cha), Knowledge (All Skills Individually) (Int), Profession (Wis), Sense Motive (Wis) and Spellcraft (Int). 
+Skill Points/Level: 2 + Int modifier
+Hit Dice: D4
+BAB/Saves: Poor (as Wizard); Fort: Poor; Reflex: Poor; Will: Good 
+
+Level, Abilities:
+1 Uttercold Assault!:20, Undead General, Rebuke Undead, Officer and a Gentleman, Undead Leadership, +1 Spellcaster Level 
+2 Necromantic Commander, +1 Spellcaster Level
+3 Exceptional Leadership, +1 Spellcaster Level
+4 Uttercold Assault!: 30, Bonus Feat, +1 Spellcaster Level
+5 Elite Followers, +1 Spellcaster Level
+6 Rallying Cry, +1 Spellcaster Level
+7 Uttercold Assault!: 40, Bonus Feat, +1 Spellcaster Level
+8 Fearsome Charge, +1 Spellcaster Level
+9 Crush Them, +1 Spellcaster Level
+10 Uttercold Assault!: 50, Bonus Feat, Elite Followers, +1 Spellcaster Level 
+
+Weapon and Armor Proficiency: The Uttercold Assault Necromancer gains no proficiency with armor or weapons.
+
+Spellcasting: Every level, the Uttercold Assault Necromancer casts spells (including gaining any new spell slots and spell knowledge) as if he had also gained a level in a spellcasting class he had previous to gaining that level.
+
+Unit: An Uttercold Assault Necromancer trains rigorously as part of an elite unit. For purposes of his class abilities, his "unit" includes himself and all of his cohorts, followers, and apprentices, as well as any undead creature summoned, commanded, or controlled by members of his unit. Other characters (such as other PCs and hirelings) can train and become part of his unit if they are healed by negative energy
+
+Uttercold Assault! (Su): All members of your unit within your Commander Aura (see Heroes of Battle, pg. 75, this is normally 30 ft.), all gain Cold Resistance: 20. At levels 4, 7 and 10 the cold resistance rises by an additional 10 points. Note that you still do not otherwise benefit from your own Commander Aura, you just get cold resistance. 
+
+Undead General (Ex): Instead of skeletal warriors as undead followers, your undead followers have the Dark Minded subtype and levels in any class; ignore the Exceptional Followers rule from the Epic Handbook. These are ordinarily Human Swordwraith Fighters, but other equivalent units may be substituted if apropos for the military organization you represent (the cannibal-hobbits of the Kankomar Foreign Legions are Ghoul-Halfling Rangers, for example). 
+Any morale bonuses, which you would otherwise provide from class features, commander auras, or spells, can be competence bonuses instead, at your discretion. 
+Undead can learn to savor victory, but death holds no fear for them. Your leadership score, when leading the undead, is not penalized when you suffer casualties. Casualties do penalize your leadership if you try to lead living followers, however. 
+Your apprentices do not penalize your leadership score when attracting undead cohorts. 
+
+Rebuke Undead (Su): If an Uttercold Assault Necromancer already has the ability to rebuke/command undead, levels of Uttercold Assault Necromancer stack with levels in other classes to determine Rebuking Level. He gains no ability to rebuke undead if he does not already have it. 
+
+Officer and a Gentleman (Ex): An Uttercold Assault Necromancer must conduct his villainous acts with restraint, good manners and aplomb. Your code of conduct includes the following:
+
+Avoid harming innocents and civilians, when feasible.
+Be courteous and dignified of bearing (and towards the opposite sex, gallant) at all times.
+Graciously accept the surrender of a defeated foe, and treat them with decorum and respect, which means absolutely no torture. 
+Captured foes may not be summarily slain. You are permitted to test their worthiness by placing them in elaborate conditions almost certain to kill them, as long as those of sufficient character or cleverness might survive. 
+Always keep your word of honor.
+
+You are also expected to ensure that all of your subordinates ("minions") obey this code, and to discipline them if they do not. Note that other "dishonorable" actions, including attacks from ambush, torture of captured spies, and the use of poison, are perfectly permissible under your code. If you violate this code in a minor way (GM discretion) you lose all remaining usages of your Exceptional Leadership class ability for the day. Severe violations cause you to lose your Exceptional Leadership and Uttercold Assault! class features until you Atone. As long as you are known to keep to your code you are entitled to a +2 bonus to your Leadership score, stacking with other leadership bonuses. 
+
+Undead Leadership (Ex): You gain Undead Leadership as a bonus feat, even if you do not meet the requirements. You will immediately "attract" the largest unit of Undead followers that you can lead (see Undead General above). You must attract cohorts as normal. If you already have Undead Leadership, take a Bonus Feat (see the list below) instead. 
+
+Necromantic Commander (Ex): At 2nd level, you gain the Necromantic Commander aura (see pg. 75 of Heroes of Battle,) in addition to your existing Commander Aura, even if you do not meet the requirements. Your followers benefit from both commander aura effects. If you already have Necromantic Commander as your aura, immediately select an additional aura for which you qualify. 
+
+Exceptional Leadership (Ex): At 3rd level, you can exert Exceptional Leadership as an immediate action. A number of members of your unit equal to your class level gain these benefits until your next action: a +2 competence bonus to AC, will and reflex saves, as well as to-hit and damage rolls. The targets must all be within your command radius. If the targets are currently under an effect that requires a will save, they are allowed an immediate additional will save to break free (as Slippery Mind). The targets of this ability must be able to hear and see you in order to benefit from your commands. This is a mind-effecting ability. You can use this ability a number of times per day equal to your class level plus your charisma bonus (if positive). The benefits last one minute.
+
+
+Bonus Feat (Ex): At 4th level, select a bonus feat. You must meet the requirements normally. Bonus feats must be selected from the following list: Any Feat from Tome of Necromancy, Extra Turning, Lichloved, Sacrificial Mastery (BV), Arcane Disciple, Bonus Domain, Empower Turning, Profane Boost, Quicken Turning, Undead Mastery, Zone of Animation (CD), Any Leader feat, Veteran Knowledge (HoB). Note that Undead Leadership will substitute as a pre-requisite for feats requiring leadership. 
+
+Elite Followers (Ex): All of your undead followers may have one more level than would ordinarily be allowed by your leadership score once you reach 5th level. For example, For example, if your leadership score is 21, you would ordinarily be allowed 60 1st level followers, you are allowed 60 2nd level followers instead. You must attract (or train, at GM discretion) these elite followers normally. At 10th level, this bonus increases to 2 levels. In addition, you automatically qualify as having Epic Leadership if your leadership score is 25 or more.
+
+Rallying Cry (Ex): At 6th level, you can rally your allies with a powerful shout as a free action. Doing so costs two uses of your Exceptional Leadership ability. Firstly, this enables you to perform a free rally check (Heroes of Battle, pg. 73), which is useful if you lead living troops. Secondly, your Commander Aura (Heroes of Battle, pg. 75) radius increases to 60 ft. and the benefits of your Commander Aura are doubled for a number of rounds equal to your class level + your charisma bonus. The increased radius applies to the energy resistance granted by your Uttercold Assault! class feature. 
+
+Fearsome Charge (Ex): At 8th level, when you direct your forces into battle, your enemies quaver in terror. Calling for a fearsome charge is a swift action that requires four uses of your Exceptional Leadership ability. In addition to the benefits of a Rallying Cry (above), your unit retains the benefits of your commander aura when charging enemies outside of your commander aura. Any enemies charged by members of your unit when they began begin the charge move within your commander aura must make an immediate Morale check (a will save, see Heroes of Battle pg. 72), but the DC (instead of 20) is 10 + your class level + your charisma bonus. The modifiers on Heroes of Battle table 4-3 apply as normal. Any given unit of enemies cannot be forced to take more than one Morale Check from Fearsome Charge during any given battle, but further morale checks (from casualties, for example) may be called for. 
+
+Crush Them (Ex): When an Uttercold Assault Necromancer of 9th level exerts Exceptional Leadership, he can expend three additional uses to give the nominated subordinates additional bonuses. In all cases, these benefits last only one turn. They may count any Shaken (or worse) opponent as flat-footed, and inflict +2D6 points of damage against them (treated as Sudden Strike damage, and stacks with Sudden Strike, Sneak Attack, etc. if any of those apply.) 
+
+They may count any Frightened or Panicked opponent as Helpless. The Necromancer's followers may coup de grace or grapple against such an opponent without provoking an attack of opportunity from enemies who are themselves at least Shaken. Note that under her Code of Conduct they are generally required to use this ability to order a grapple (capture) of any opponent who communicates a desire to surrender. Enemies who simply flee can be killed or captured, as desired. 
+
+The Boneblade Reaper
+I have bested Death itself and cannot die. Your powers do not impress me.
+
+Necromancy is the magic of death, and the study of this art can reveal martial secrets for dealing of death. To be a Boneblade Reaper is not just to study death as a means of bringing it to your enemies, but it is a path of dark enlightenment. To reach a pinnacle of this art, one must embrace death as a lover, and to erase his name from the book of life and enter it into the book of death. This is not the embrace of corrupted state of undeath, but the rewriting of the self as an avatar of an implacable and unknowable force of existence…. death itself. 
+
+To begin this path, one masters the boneblade, a symbol of the art of dealing death. Then he etches the necromantic runes into his own flesh that mark him as one of Death’s Own. From there, he begins learning the death art of the boneblade, mastering martial techniques culled from the study of necromancy.
+
+Prerequisites:
+Skills: Move Silently 9 ranks, Concentration 4 ranks
+Feats: Boneblade Master, Improved Unarmed Strike, Weapon Finesse
+Spellcasting: Must be able to cast first level spells.
+Special: Cannot be undead.
+Special: Evasion ability.
+
+Hit Die: d8
+BAB/Saves: BAB: Good (as Fighter); Fort: Good; Reflex: Good; Will: Good
+Class Skills: The Boneblade Reaper’s class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Craft (Int), Disable Device (Int), Hide(Dex), Intimidate (Cha), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently(Dex), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spot(Wis), and Spellcraft (Int).
+Skills/Level: 4 + Intelligence Bonus
+
+Level, Abilities:
+1 Deathscribed Flesh, Death Art Strike, +1 Spellcaster Level
+2 Secrets of the Boneblade Art, +1 Spellcaster Level
+3 Dark Life, +1 Spellcaster Level
+4 Stunning Blade, Speed of Death +20 feet, +1 Spellcaster Level
+5 Runes of Lifetrapping, +1 Spellcaster Level
+6 Speed of Death +40 feet, +1 Spellcaster Level
+7 Ghost Strike, +1 Spellcaster Level
+8 Speed of Death +60 feet, +1 Spellcaster Level
+9 Dance with the Reaper, +1 Spellcaster Level
+10 Runes of the Dark Reaper, Speed of Death +80 feet, +1 Spellcaster Level
+
+Weapon and Armor Proficiency: The Boneblade Reaper gains no proficiency with armor or weapons, although if he has the flurry ability he may use it with any Boneblade weapon.
+
+Spellcasting: Every level, the Boneblade Reaper casts spells (including gaining any new spell slots and spell knowledge) as if he had also gained a level in a spellcasting class he had previous to gaining that level.
+
+Deathscribed Flesh (Ex): The Boneblade Reaper has scribed necromantic runes into the own flesh of his arms and chest, never healing and faintly shimmering with dark energy. As long as these runes are not covered by clothing or armor, these runes provide protection from the blades and claws of the Boneblade Reaper’s enemies. In game terms, this counts a +8 armor bonus that counts against touch attacks and incorporeal touch attacks. For each additional level of this class, this bonus increases by +1.
+These runes also make the Boneblade Reaper immune to any effect that would turn him into an undead creature, even if he is currently dead. 
+
+Death Art Strike(Su): Each time the Boneblade Reaper kills an enemy with a boneblade weapon melee attack, he may make an additional touch attack with a free hand at the same attack bonus. If this attack hits, it does 1d6 points of Con damage plus 1 for every HD of the killed enemy (Will save for half). 
+
+Secrets of the Boneblade Art(Su): From 2nd level on, the Boneblade Reaper may cast his targeted Necromancy spells through his boneblades. On any successful melee attack on an enemy with a boneblade weapon, the Boneblade Reaper may cast a targeted Necromancy spell as a swift action that does not provoke an attack of opportunity. This spell affects the enemy as if the boneblade had been enchanted with the Spellstoring attribute and the spell had been inside it when it struck (and been activated during the attack). 
+
+Dark Life(Su): At 3rd level, the Boneblade Reaper has learned to draw power from negative energy. Any damage he would receive from negative energy is instead converted to healing on a point for point basis. He is still healed by Positive Energy as well.
+
+Stunning Blade (Ex): At 4th level, the Boneblade Reaper can make stunning attacks and similar special attacks with a bone blade as if it was an unarmed strike.
+
+Speed of Death (Ex): Even light is not faster than the dark, and nothing living is faster than death. When the Boneblade Reaper achieves 4th level, his speed increases by 20 feet. His speed increases 20 more feet at 6th, 8th, and 10th level.
+
+Runes of Life Trapping(Ex) At 5th level, the Boneblade Reaper is immune to any effect that moves his soul from his body, even if he is currently dead. This includes effects like magic jar, soul bind, trap the soul, and the class features of PrCs like Soul Merchant and Heartless Mage (even if he has levels in these PrCs).
+Also, the Boneblade Reaper gains Heavy Fortification in addition to the armor bonus he gains from his Deathscribed Flesh ability.
+
+Ghost Strike(Su) At 7th level, the Boneblade Reaper can “lose” any prepared spell in order to cast Wraithstrike, even if this spell is not on his spell list. This casting does not provoke Attacks of Opportunity
+
+Dance with the Dark Reaper(Ex): Due to a bargain with Death, you must battle the Dark Reaper to win freedom from Death’s grasp. Should the Boneblade Reaper die, his body is pulled into a featureless pocket demiplane that cannot be accessed or exited by dimensional traveling magic. Once there, the Boneblade Reaper is stripped of his equipment and he receives the effects of a true resurrection spell and a disjunction, and he is fully healed. A boneblade weapon is created for him while he is in this demiplane. 
+He is then immediately forced into a battle with the Dark Reaper (treat as an Entropic Reaper without the Entropic Blade ability). Should he win this battle, he is returned with all his equipment to a safe location 1d4 miles from the place where he died and he does not age for 10 years. 
+If he loses, he dies again and can only be returned to life with resurrection magic that does not require his body; casting this kind of spell calls a Dark Reaper to the location of the spellcaster and he must kill the Dark Reaper without aid for the spell to take effect. Once returned to life, the Boneblade Reaper’s equipment is transported to the location of his new body. The Boneblade Reaper cannot refuse to return to life if resurrection magic is used on his behalf.
+If the Boneblade Reaper dies due to reaching his maximum age, his life is extended long enough for him to finish his battle with the Reaper. Should he defeat the Reaper, his maximum age is instead increased by 10 years (during which he does not age any further). If he fails, he cannot be returned to life by any means.
+
+Runes of the Dark Reaper(Ex): At 10th level, the Boneblade Reaper ascends to the honored position of Dark Reaper, and so he cuts the representative runes into his flesh. Any creature he kills with a boneblade is affected by a soul bind effect that binds the soul to the body of the Boneblade Reaper. The only way to release a soul affected by this power is to convince the Boneblade Reaper to release the soul (he can do so as a standard action). 
+At this level, the Boneblade Reaper also becomes immune to mind-affecting magic or effects. 
+
+Skindancer
+"It was Elothar… but it wasn't Elothar. It was like someone wearing an Elothar suit."
+
+Skindancers are a rare breed of assassin, working their way into a community, shedding identities as they shed skins, with each murder moving closer their targets. The Skindancer is a thief of forms, a powerful Necromancer who has transcended mere shapeshifting magic and mastered the techniques of drawing supernatural power from wearing the living skins of his enemies. They are paragons of disguise and infiltration, dark souls hiding among their enemies while sowing discord and chaos in their wake.
+
+Prerequisites:
+Feats: A Feast Unknown, Still Spell, Silent Spell
+Spellcasting: Must be able to cast 4th level Necromancy spells
+Special: Must not be good.
+Class Skills: The Skindancer’s class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Craft (Int), Disquise(Cha), Hide(Dex), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently(Dex), Profession (Wis), Sense Motive(Wis), Spot(Wis), and Spellcraft (Int).
+Skill Points/Level: 6 + Int modifier
+BAB: Poor (1/2), Saves: Fort: Good; Reflex: Poor; Will: Poor
+
+Level, Abilities:
+1 Wear Skin, Taking Lives, +1 Spellcaster Level
+2 Likeness, +1 Spellcaster Level
+3 Death Attack, +1 Spellcaster Level
+4 Flexible Hide, +1 Spellcaster Level
+5 Hide the Evidence, +1 Spellcaster Level
+6 Fill the Shell, +1 Spellcaster Level
+7 Aura Steal, +1 Spellcaster Level
+8 Art of the Preservation, +1 Spellcaster Level
+9 Skin Reincarnation, +1 Spellcaster Level
+10 Skin Puppets, +1 Spellcaster Level
+
+Wear Skin (Ex) The Skindancer may wear any Skin that has been prepared by the Taking Lives ability of a Skindancer. While wearing this Skin, the Skindancer has the form of the creature whose skin he is wearing as if he had cast shapechange and become that creature. This effect lasts as long as he wears the Skin. In addition, he also gains one use of each spell-like ability of that creature’s race. Once used, the spell-like abilities of a particular skin are forever expended.
+The Skindancer may only wear the Skin of a creature whose CR is three less than his character level, and who has the same size as him. Using this ability on the Skin of a sentient creature (Int of 5 or better) is an evil act. 
+If the Skindancer dies while wearing a Skin, that Skin is destroyed.
+
+Taking Lives (Ex): To use this power, the Skindancer must have the fresh and undamaged body of a creature. It cannot have been taken HP damage from any fire or acid effect, piercing or slashing damage, or any other effect that would damage, tear, or destroy its skin (DM’s judgment). 
+If the creature was killed within ten minutes (or preserved with magic ten minutes from its death by an effect like gentle repose), the Skindancer may begin a one hour ritual to turn the outer flesh of the body into a Skin. Once completed, the skinless body remains. Using this ability on the body of a sentient creature (Int of 5 or better) is an evil act.
+Any Skin that has not been worn by a Skindancer for one hour rots away to uselessness. Skins cannot be made from Undead, Plants, Oozes, Swarms, Constructs, or any other creature that does not have a skin (DM’s option).
+
+Likeness (Ex): While wearing a creature’s Skin, the Skindancer gains a +10 to Bluff and Disguise checks to impersonate that creature (this stacks with the bonuses gained by shapeshifting or disguise spells). 
+
+Death Attack (Ex): At 3rd level, the Skindancer gains the Death Attack ability of an Assassin. Levels in this class stack with levels of any other class that offers Death Attack for the purposes of this class feature. Any creature killed by a bludgeoning Death Attack is suitable for the Taking Lives ability.
+
+Flexible Hide : At 4th level, the Skindancer can wear the Skin of a creature who is within one size category of his own size.
+
+Hide the Evidence (Su): At 5th level, the Skindancer can completely devour the skinless body of any victim that he uses the Taking Lives ability on.
+
+Fill the Shell : At 6th level, the Skindancer can wear the Skin of a body that is up to two sizes larger than his own. 
+
+Aura Steal(Su): For the purposes of divination magic, the Skindancer is the creature whose Skin he is wearing.
+
+Art of the Preservation (Su): The Skindancer has learned the art of preserving Skins for later use in briny pools. By spending 500 gp per CR of the creature the pool will hold and one day, the Skindancer can build a briny pool that will preserve a Skin inside it and indefinitely maintain the Skin’s ability to be worn. Once taken out of the pool, the skin rots to uselessness within one hour as usual, unless it is worn. 
+
+Skin Reincarnation(Su): If killed, a Skindancer will be reincarnated (as the spell) into the form of one of the Skins he is preserving with the Art of Preservation ability (if he does not have a preserved Skin of his own size and race, randomly determine which Skin is used). The Skin used by this ability is destroyed in the process.
+
+Skin Puppets: The Skindancer can create Skins that can be worn by others by expending 2,000 gp per CR of the creature. Each creature wearing one of these Skins gains one use of the Wear Skin ability, and counts as if the Skindancer had successfully cast charm monster on them.
+
+Stranger with the Burning Eyes
+One of the greatest necromantic mysteries is the ability to move souls from one body to another, and to use this trick to inhabit the flesh of a stranger, gaining a twisted and parasitic form of immortality. Usually this art is as dangerous as it is powerful, but for the Stranger with the Burning Eyes the experience is a way of life. They have abandoned their true form and now only move from body to body like a virus, taking with them knowledge and power, working their way through the world using the bodies of others as proxies. 
+When they transfer to a new body, their eyes glow with the fires of their souls, as they have fanned the flames of their spirits until they can survive without a material form. They are the consummate strangers in strange land, and often acquire habits from the many unusual body forms they have inhabited. One thing is certain: they have little regard for the people they inhabit. 
+
+Prerequisites:
+Feats: Still Spell, Silent Spell
+Skills: Knowledge (Religion) 9 ranks, Concentration 9 ranks
+Spellcasting: Must be able to spontaneously cast 5th level spells, and the spell magic jar.
+Special: Your true body must have been destroyed.
+Special You cannot be good.
+Hit Die: d4
+BAB/Saves: BAB: Good (as Fighter); Fort: Poor; Reflex: Poor; Will: Good
+Class Skills: The Stranger with the Burning Eyes’ class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Hide(Dex), Intimidate (Cha), Knowledge (all skills, taken individually) (Int), Profession (Wis), and Spellcraft (Int).
+Skills/Level: 2 + Intelligence Bonus
+
+Level, Abilities:
+1 Burning Soul, Consume, +1 Spellcaster Level
+2 Token, +1 Spellcaster Level
+3 Firewall of the Soul, +1 Spellcaster Level
+4 Explosive Reaction, +1 Spellcaster Level
+5 Inferno, +1 Spellcaster Level
+6 Lore of the Burning Flame, +1 Spellcaster Level
+7 Slow Burn, +1 Spellcaster Level
+8 Wildfire, +1 Spellcaster Level
+9 Conflagration, +1 Spellcaster Level
+10 Hellfire, +1 Spellcaster Level
+
+Burning Soul (Su):At 1st level, the Stranger with the Burning Eyes has mastered the ability to move between bodies. He may use magic jar at will as a Supernatural ability with an indefinite duration. For the purposes of this spell, any body he is possessing also counts as a receptacle, so he may use the senses granted by being in a magic jar receptacle and possess new bodies from this form, and he returns to the last body he possessed if his current body is killed, if it is within range(it gets a save as usual). If it is not within range, he is killed. Since bodies count as receptacles for this effect, the Stranger does not need line of effect to possess a new body. 
+The Stranger with the Burning Eyes no longer ages, though bodies he is possessing will age. 
+
+Token: At 1st level, the Stranger with the Burning Eyes is magically followed by a token whenever he changes bodies. This is a simple piece of jewelry worth at least 1,000 gp, and it can be enchanted with any enchantment suitable for rings, rods, wonderous items, and armor (but it cannot be intelligent). This item is a tiny object with hardness 20 and 20 hp, and if removed from a body the Stranger with the Burning eyes is possessing he is immediately forced to possess a new body (he cannot possess that body ever again). If he cannot possess a new body, he dies. (Note: if the victim of the Stranger’s possession attack is ever given a second Will save to resist his possession from an effect like Slippery Mind, a successful save means the victim removes the token).
+The token is magically recreated or moved each time the Stranger possesses a new body, so as long as he lives it continues to exist.
+
+Consume(Su) At second level, the Stranger with the Burning Eyes may “lose” a prepared spell or spell slot to perform a Wisdom draining touch attack as a standard action. The touch attack does as much Wisdom drain as the spell level that is lost, and a successful Will save halves this drain.
+
+Firewall of the Soul: At 3rd level, the Stranger with the burning Eyes is immune to any effect that moves his soul or would end his possession of a body (other than removing his token). Any effect that traps his soul in his current body still works, and he will die if such an effect is cast on him and the body he is possessing dies. The Stranger may also remain in a body if he is in an antimagic field or other magic destroying effect, though he is effectively trapped in that body until he can leave that effect.
+
+Explosive Reaction(Su): At 4th level, when the Stranger with a Burning Soul is in a body that is killed, he may take an immediate action to possess a new body (or return to his last body, as usual).
+
+Inferno(Su): While in a possessed body, the Stranger may use any of its feats once he has attained 5th level. 
+
+Lore of the Burning Flame: While in a possessed body, the Stranger may use any of its skills or personal knowledge once he has attained 6th level.
+
+Slow Burn(Su): Once the Stranger with the Burning Eyes has achieved 7th level, if he is in a body that is killed, and he cannot successfully possess any body, his soul is instead transferred into his Token and it counts as a receptacle. Should the Token be destroyed while it holds the soul of the Stranger, he immediately dies without a chance to possess new bodies.
+
+Wildfire(Su): At 8th level, the Stranger with the Burning Eyes may use his magic jar ability a number of times a round equal to his Charisma modifier as a full round action. This enable to make possession attempts very quickly and even travel large distances in heavily populated areas.
+
+Conflagration(Su): As a standard action, a 9th level Stranger with the Burning Eyes can combine a use of his Consume ability with his magic jar ability. The person he attempts to possess is affected by the Consume ability as if he had been successfully touched. The Consume effect uses spells or spell slots as normal. 
+
+Hellfire: Should the Stranger with the Burning Eyes ever he killed once he has achieved 10th level, he returns to life with his soul in his Token one year later (it is recreated 1d4 miles from the location of his death). He does not lose a level from this return from the dead. 
+
+Master of the Seven Necromantic Mysteries
+"Did you think that you could oppose me? Death itself is no mystery to one such as I."
+The Master of the Seven Necromantic Mysteries is a necromancer extraordinaire, a grandmaster of the necromantic arts. He transcends the normal limitations of magic and finds the common threads that link all Necromancy magic. Great is his power and terrible is his anger, as he wields the powers of life and death with terrible skill. Both the living and the dead fear him, as he wields powers from beyond life. All those who study the arts of necromancy acknowledge his skill. 
+
+Prerequisites:
+Feats: Spell Focus(Necromancy), Greater Spell Focus(Necromancy), two necromantic creation feats
+Skill: Knowledge (Arcana) 12 ranks, Knowledge (Religion) 12 ranks
+Spells : Must be able to cast 5th level Necromancy spells and must be able to cast one Necromancy spells at each spell level available.
+
+Class Skills: The Master of the Seven Necromantic Mysteries’ class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Knowledge (All Skills Individually) (Int), Profession (Wis), Sense Motive (Wis), Spellcraft (Int), and Use Magic Device (Cha).
+Skill Points/Level: 2 + Int modifier
+Hit Dice: 1d4
+BAB: Poor (1/2), Saves: Fort: Good; Reflex: Poor; Will: Good
+
+Level, Abilities:
+1 Master of Necromancy, First Mystery: Secrets of Commanding, +1 Spellcaster Level
+2 Second Mystery: Secrets of Necromantic Spells, +1 Spellcaster Level
+3 Third Mystery: Secrets of Negative Energy, +1 Spellcaster Level
+4 Fourth Mystery: Secrets of Undead Creation, +1 Spellcaster Level
+5 Fifth Mystery: Secrets of Life Draining, +1 Spellcaster Level
+6 Sixth Mystery: Secrets of the Soul, +1 Spellcaster Level
+7 Seventh Mystery: Secrets of Eternal Life, +1 Spellcaster Level
+
+Weapon and Armor Proficiency: A Master of the Seven Necromantic Mysteries gain no proficiency with any weapon or armor.
+
+Master of Necromancy: The Master of the Seven Necromantic Mysteries gains a bonus to his caster level when casting spells of the school of Necromancy equal to his class level.
+
+Secrets of Commanding (Su): The Master of the Seven Necromantic Mysteries can Rebuke Undead as a cleric of his character level plus his Master of the Seven Necromantic Mysteries class level. This does not stack with any Rebuking the Master may have gained from other classes with grant Rebuking (such as Cleric or Dread Necromancer). He may also ignore the turning resistance of any undead creature he has already successfully rebuked (so a Ghoul counts as only 2 commanded hit dice instead of 4).
+
+Secrets of Necromancy Spells: At 2nd level, The Master of the Seven Necromantic Mysteries can learn any Necromancy spell from any list provided he has deciphered the spell in written form. If he is of a class that has a limited number of spells known, he must sacrifice one of his other spells known of an equal level.
+In addition, the Master of the Seven Necromantic Mysteries learns one additional free spell from the school of Necromancy every level (including this one). This spell may be from any list, but must be of a level he can cast.
+
+Secrets of Negative Energy(Su):: At 3rd level, The Master of the Seven Necromantic Mysteries may convert the damage from any spell with the cold, ice, fire, or acid subtype to instead inflict negative energy damage.
+
+Secrets of Undead Creation(Su): At 4th level, The Master of the Seven Necromantic Mysteries gains the feat Feed the Dark Gods as a bonus feat. 
+In addition, the Master may choose three undead creation spells per day to cast as spell-like abilities usable once per day. 
+
+Secrets of Life Draining(Su): At 5th level, The Master of the Seven Necromantic Mysteries gains the ability to draw life from his spells that inflict negative levels or ability drain. For every negative level bestowed of point of ability damage inflicted, the Master gains 5 temporary hit points. These temporary hit points vanish after one hour, and cannot cause the Master to have more temporary hit point than twice his fully healed number of hit points.
+
+Secrets of the Soul At 6th level, The Master of the Seven Necromantic Mysteries may cast magic jar at will as a Supernatural ability. Any body that he possesses counts as a second receptacle, meaning that he gains the benefits of being in a receptacle while in another’s body, and he still has an object receptacle to return to if the body he is possessing is killed or destroyed.
+
+Secrets of Eternal Life At 7th level, The Master of the Seven Necromantic Mysteries becomes immortal. He no longer ages, and if killed he becomes a ghost. As a ghost, he automatically succeeds on his Rejuvenation check.
+
+Death King 
+"I have returned."
+The will of the people is great, and their need for heroes is sometimes greater. Sometimes, it is so great as to keep a great warrior from dying. Living but dead, these heroes of the people are pulled back from the dead time and time again, feeling the pain of each death but unable to end the cycle. .
+Some seek vengeance, while others seek redemption, but all have death in their eyes. Each has returned from death and been changed. Each has grown crueler and harder, and known the bliss of death. None have given up, though many have been destroyed. Underestimate them, and they will destroy you.
+
+Prerequisites:
+Feats: Power Attack, Expertise, Leadership 
+BAB: +8
+Special: Must have proficiency with all martial weapons.
+Special: Must have been returned from the dead.
+Class Skills: The Death King’s class skills (and the key ability for each skill) are Climb (Str), Concentration(Con), Craft (Int), Intimidate (Cha), Jump (Str), Ride (Dex), and Swim (Str).
+Skill Points/Level: 2 + Int modifier
+BAB: Good (1/1), Saves: Fort: Good; Reflex: Poor; Will: Good
+
+Level, Abilities:
+1 Mantle of Death, +1 Spellcaster Level
+2 +1 Natural Armor, Gaze of the Terrible, +1 Spellcaster Level
+3 +2 natural Armor, Fast Healing 1, +1 Spellcaster Level
+4 +3 Natural Armor, Regeneration 1, +1 Spellcaster Level
+5 +4 Natural Armor, Horrors from Beyond, +1 Spellcaster Level
+6 +5 Natural Armor , Eternal Hero, +1 Spellcaster Level
+
+Weapon and Armor Proficiency: The Death King gains no proficiency with armor or weapons.
+
+Spellcasting: Every level, the Death King casts spells (including gaining any new spell slots and spell knowledge) as if he had also gained a level in a spellcasting class he had previous to gaining that level. If the character does not have any levels in any spellcasting classes when he takes his first level of Death King, this class feature gives him levels in Sorcerer spellcasting. 
+
+Mantle of Death: The Death King’s type changes to Undead (and he gains the augments subtype for his original type) and he gains the Dark Minded and Unliving subtypes.
+
+Natural Armor: Every level past 1st, the Death King’s natural armor increases by 1.
+
+Gaze of the Terrible (Su): As a swift action, a 2nd level Death King can target an opponent within short range who meets its gaze with a fear effect. This effect is handled as the spell, but targets only a single opponent.
+
+Fast Healing 1 (Ex): The Death King gains Fast Healing 1 at 3rd level.
+
+Regeneration 1 (Ex): The Death King gains Regeneration 1 at 4th level. Non-magical weapons do normal damage to the Death King.
+
+Horrors from Beyond (Su): As a swift action, a 5th level Death King can target an opponent within short range with a phantasmal killer effect. This effect is handled as the spell.
+
+Eternal Hero (Ex): Should a 6th level Death King be destroyed and his remains interred in a Tomb, he is restored to life in one week with no level loss.
+
+Widow Queen 
+"You look good enough to eat." 
+
+The Widow Queen is a necromancer who has been tempted by the awful seductions of vampirism. By drinking the blood and vital fluids of the living, she has grown bloated with magical power and life energy. She sits in a web of minions, trapping in enemies in her sticky machinations, probing their weakness for a soft spot to driver her fangs deep into their flesh. 
+
+While her intelligent minions are the most clever and subtle, it is her mindless minions that are the most dangerous. Drained of vital fluids, they mass at her command and will gladly sacrifice themselves for her desires. This pleases her, and she will happily ask for that sacrifice. 
+
+Prerequisites: 
+Feats: Path of Blood, A Feast Unknown 
+Skill: Knowledge (Arcana) 9 ranks, Diplomacy 4 ranks, Sense Motive 4 ranks 
+Spells : Must be able to cast 3rd level Necromancy spells and the spells web and vampire touch. 
+
+Class Skills: TheWidow Queen’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Knowledge (Int), Profession (Wis), and Spellcraft (Int). 
+Skill Points/Level: 2 + Int modifier 
+Hit Dice: 1d4 
+BAB: Poor (1/2), Saves: Fort: Good; Reflex: Poor; Will: Good 
+
+Level, Abilities: 
+1 Blood Drain, Paralyzing Touch +1 Spellcaster Level 
+2 Create Spawn, +1 Spellcaster Level 
+3 Find the Little Ones, +1 Spellcaster Level 
+4 Suckle at the Resisting Will, +1 Spellcaster Level 
+5 Create the Broken Ones, +1 Spellcaster Level 
+6 Seductive Speech, +1 Spellcaster Level 
+7 Snare the Will, +1 Spellcaster Level 
+8 Create Poisoned Hearts, +1 Spellcaster Level 
+9 Flush of Youth, +1 Spellcaster Level 
+10 Cult of Personality, +1 Spellcaster Level 
+
+Weapon and Armor Proficiency: The Widow Queen gains no proficiency with armor or weapons. 
+
+Spellcasting: Every level, the Widow Queen casts spells (including gaining any new spell slots and spell knowledge) as if she had also gained a level in a spellcasting class she had previous to gaining that level. 
+
+Blood Drain(Ex): The character can drain blood from a helpless or willing victim, inflicting 2 points of Constitution Drain per round. The character heals 5 points for each point of Constitution drain in this way, and consuming 4 points of Constitution from intelligent creatures is considered enough "food" for one day. 
+
+Paralyzing Touch (Su): With a touch, the Widow Queen can paralyze any enemy who fails a Fortitude save. This effect lasts three rounds, and the save DC is Charisma based. Using this ability is an attack action. 
+
+Create Spawn: Any intelligent Humanoid creature killed by a 2nd level Widow Queen’s Blood Drain ability becomes a vampire spawn under the control of the Widow Queen. 
+
+Find the Little Ones(Su): At 3rd level, the Widow Queen may cast scrying at will on any creature or spawn created with her Widow Queen abilities. 
+
+Suckle at the Resisting Will(Su): When a Widow Queen of 4th level uses her Blood Drain ability, the Widow Queen may do Wisdom drain instead of Constitution drain. 
+
+Create the Broken Ones: Any creature reduced to Wisdom of 0 by a Widow Queen of 5th level can be turned into a unique kind of spawn, Broken Ones. These creatures have all the abilities of the originals, but they gain the Mindless trait and must be commanded by the Widow Queen to perform any action. A Broken One has a Wisdom score of 1. 
+
+Seductive Speech(Su): At 6th level, the Widow Queen may cast the spell demand at will as a spell-like ability on any person that has been a victim of her Blood Drain ability. She may also use her scrying ability on any victim of her Blood Drain ability. In this way, the Widow Queen can coordinate her minions and track escaped prey. 
+
+Snare the Will (Su): Every round that a 7th level Widow Queen drains a victim of Wisdom, that victim must make a Will save or suffer the effects of a Charm Monster effect that lasts as long as the Wisdom drain remains. 
+
+Create Poisoned Hearts: If an 8th level Widow Queen can use her Blood Drain ability to drain wisdom from a victim on three successive nights (and the victim does not become a Broken One), the victim becomes a unique form of Spawn, a Poisoned Heart. These spawn have all of their abilities, but are fanatically loyal to the Widow Queen. 
+
+Flush of Youth: Any night that a 9th level Widow Queen uses her Blood Drain ability, her age category is reduced to Young Adult. This does not affect her mental ability scores. She returns to her true age if she fails to feed for three nights in a row. 
+In additional, she gains a +4 increase to her Constitution, as if from level gain. 
+
+Cult of Personality(Su): If a 10th level Widow Queen is ever killed, her remaining spawn and minions form a Necromantic Intelligence with a purpose of returning her to life. If they can spill the lifeblood of 100 sentients into a pit, a true resurrection effect will be cast on the Widow Queen, and she will burst forth from the pit. Once the Widow Queen is returned to life, she regains control of her minions and spawn. 
+
+Bone Rider 
+" "We can make it; we'll just have to ride all night. ." 
+
+The desire for a steed that will not tire or balk is instantly understandable by anyone who has ridden for even a short time. Still, while the dark arts can provide, there are few who are willing to take steps down that path. The Bone Rider is one who has chosen to sacrifice the luxury of acceptance for the power and convenience of using the raw power of death for transportation and war. 
+
+Prerequisites: 
+Feats: Mounted Combat 
+BAB: +3 
+Skills: Ride 7 ranks, Knowledge (Religion) 3 ranks, Diplomacy 4 ranks 
+Special: Must have proficiency with all martial weapons. 
+Class Skills: The Bone Rider’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge all skills taken individually) (Int), Profession (Wis), Ride (Dex), and Sense Motive (Wis). 
+Skill Points/Level: 2 + Int modifier 
+BAB: Good (1/1), Saves: Fort: Good; Reflex: Poor; Will: Good 
+
+Level, Abilities: 
+1 Mount the Dead, Turn/Rebuke Undead, Spellcasting 
+2 Versatile Riding, Deadly Touch 
+3 Bonus Feat, Animate Dead 
+4 Speed of the Dead, Hunger of the Dead 
+5 Bonus Feat, Eternal Faithfulness 
+
+Weapon and Armor Proficiency: The Bone Rider gains no proficiency with armor or weapons. 
+
+Spellcasting: Every level of Bone Rider counts as two levels of Blackguard for the purposes of spells per day and available spells. A Bone Rider's caster level for these Blackguard spells is her character level. 
+
+Mount the Dead (Su): A Bone Rider can summon an undead creature to serve her for up to her character level in hours each day. The Bone Rider traditionally rides this creature, though it is fanatically loyal and she can use it for any other task it is capable of. Summoning or dismissing the mount is a standard action, and it appears within close range of the Bone Rider. If the Bone Rider's mount is destroyed, she may not summon it again for 24 hours. 
+
+The mount is an undead creature, but is often much more intelligent and loyal than a normal example of its type. The undead mount has an Intelligence of 10 if it would normally be less than that (including creatures which usually have an Intelligence of "-"). The Bone Rider is immune to any harmful effects of touching or being within the presence of her mount. The Mount gains Turn Resistance equal to the Bone Rider's class level. 
+
+Sample Mounts: 
+A Bone Rider of sufficiently high level can select her mount from the following list, if her character level is at least equal to the minimum level of the beast in question. If a Bone Rider is higher level than necessary, she adds the difference to the undead beast's hit dice. The DM is welcome to allow alternative undead steeds, the following list is intended only as an example: 
+Minimum Level, Creature 
+1 – Skeleton Wolf 
+3 – Skeleton Warhorse 
+5 – Skeleton Manticore 
+7 – Zombie Wyvern 
+9 – Revived Fossil Behir (LM) 
+11 – Young Adult White Zombie Dragon (Draconomicon) 
+13 – Ulgurstasta (FF) 
+15 – Charnel Hound (MM3) 
+16 – Nightwing 
+17 – Hullathoin (FF) 
+20 – Nightcrawler 
+
+
+Turn/Rebuke Undead (Su): If the Bone Rider already has turning or rebuking, she may add her levels of Bone Rider to her level for the purposes of turning or rebuking. 
+
+Versatile Riding (Ex): At 2nd level, the Bone Rider's Mount gains the special bonuses of a phantom steed cast with a caster level equal to her caster level. 
+
+Deadly Touch (Su): At 2nd level, a Bone Rider can inflict negative energy damage with a touch. The total amount of damage which can be used each day is equal to her Charisma bonus times her class level. As this is negative energy, this damage heals undead. The Bone Rider can use as much or as little of this ability with a single touch as she chooses. 
+
+Bonus feat: At 3rd level, the Bone Rider gains a Bonus Feat that she qualifies for. The feat must have Mounted Combat or Point Blank Shot as one of its prerequisites. She gains another similar Bonus Feat at level 5. 
+
+Speed of the Dead: At 4th level, the Bone Rider's mount gains a +100' enhancement bonus to its speed with every movement it has. The mount also has Evasion. 
+
+Hunger of the Dead: The mount of a 4th level Bone Rider can consume the flesh of a fallen corporeal enemy and heal itself completely in doing so. Devouring a helpless or dead opponent is a standard action if the target creature is at least one size smaller than the undead beast. 
+
+Eternal Faithfulness (Su): At 5th level, a Bone Rider's Mount will sacrifice itself to save the Bone Rider's life. If the Bone Rider is ever affected by an effect or attack that would kill her while she is touching her mount, her mount suffers the effects instead. If the effect covered an area, it is entirely possible that the mount will be affected twice. 
+
+Paladin Bone Riders: 
+In games using the Playing With Fire Necromancy option, it is entirely possibly for a Paladin to become a Bone Rider and use their abilities without adversely affecting their standing as Paladins. However, many of the spells on the Blackguard list are not conducive to retaining a Good alignment. It is suggested therefore, that a Bone Rider with any levels in Paladin be allowed to prepare spells from the Paladin list in her Blackguard spell slots in addition to the regular Blackguard spells.
+
+
+Special Mounts and Cohorts 
+A game master may allow a Bone Rider with leadership to have an undead mount as a cohort. This undead Cohort may be any creature of a CR at least 2 less than the Bone Rider's character level, and may remain in the world 24 hours a day if desired. The undead cohort is a special creature initially attracted like a normal cohort, and has the Elite stat array (Undead creatures which normally have an Intelligence less than 10 or "-" have an Int modifier of +0 when they are a cohort special mount). 
+
+
+Thief of Souls 
+"What would I possibly want with your money?" 
+Jewels, gold, and magical trinkets fill the dreams of most thieves, but the Thief of Souls wants only the most treasured possession of all: your very soul. Charming, wicked, and stealthy, they’re the enemy of the gods, preventing believer’s souls from entering their rightful place in the afterlife. 
+From souls come power, and these dangerous individuals have learned to tap into that power for their own ends. The fact that this process destroys the souls does not matter to them as they know the world is full of souls, waiting to be taken. 
+
+Prerequisites: 
+Skills Use Magic Device 9 ranks, Knowledge(Religion) 4 ranks, Craft (alchemy) 4 ranks 
+Spellcasting: Ability to cast 1st level Arcane Spells. 
+Alignment: Cannot be good. 
+Special Sneak Attack, Sudden Strike, or Skirmish +2d6 
+Special: Must have owned and used a dagger made from thinaun. 
+
+Class Skills:) The Thief of Soul’s class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (all) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spot (Wis), Swim (Str), Tumble (Dex), and Use Magic Device (Cha). 
+Skill Points/Level: 6 + Int modifier 
+BAB: Medium (3/4), Saves: Fort: Poor; Reflex: Good; Will: Good 
+
+Level, Abilities: 
+1 Soul Taker, Thinaun Alchemy, +1 Spellcaster Level 
+2 Sneak Attack +1d6, +1 Spellcaster Level 
+3 Fuel Magic, +1 Spellcaster Level 
+4 Sneak Attack +2d6, +1 Spellcaster Level 
+5 Soulfire, +1 Spellcaster Level 
+6 Sneak Attack +3d6, +1 Spellcaster Level 
+7 Steal Magical Essence, +1 Spellcaster Level 
+8 Sneak Attack +4d6, +1 Spellcaster Level 
+9 Reap Soul, +1 Spellcaster Level 
+10 Fuel Life, Sneak Attack +5d6, +1 Spellcaster Level 
+
+Weapon and Armor Proficiency: The Thief of Souls gains no proficiency with armor or weapons. 
+
+Spellcasting: Every level, the Thief of Souls casts spells (including gaining any new spell slots and spell knowledge) as if he had also gained a level in a spellcasting class he had previous to gaining that level. 
+
+Soul Taker(Su): At 1st level, a Thief of Souls may extract a soul from a thinaun dagger and place it within a gem worth at least 100 gp. This process takes one minute, and the soul in the gem is held inside it indefinitely. If the soul gem is smashed, the soul inside is released. If the soul gem is used to fuel any of the Thief of Soul’s class features, the gem and soul inside are destroyed and the creature whose soul was taken cannot be returned from the dead. 
+
+Thinaun Alchemy(Ex): The Thief of Souls learns alchemic secrets that teach him how to convert iron into thinaun, the legendary soul stealing metal. He may construct new blades using this technique, the process take one day and expends 5000 gp in materials. 
+
+Sneak Attack (Ex): At 2nd level, the Thief of Soul's Sneak Attack Damage increases by 1d6. His sneak attack damage increases by another d6 at every even level. If the Thief of Souls has the Skirmish ability, he can increase his Skirmish Damage instead of his Sneak Attack. 
+
+Fuel Magic(Su): When activating a charged magic item, a 3rd level Thief of Souls may destroy a gem containing a soul (destroying the soul) instead of using charge(s) from that item. The soul used must have a HD equal to the caster level of the effect. 
+
+Soulfire (Su): A 5th level Thief of Souls may destroy a gem containing a soul (destroying the soul) in exchange for a ranged touch attacking deal 1d6 points of damage per HD of the soul with the gem. This is an attack action with a medium range, and the character need not be within 30 feet of the target for the attack to count as a Sneak Attack (other restrictions of sneak attacks apply). 
+
+Steal Magical Essence (Su): Any time a Thief of Souls of 7th level or higher uses his Soul Taker ability, he can also extract one spell from the soul that was it had prepared at the time of its death (his choice). This effect keeps the spell in the gem, and any character who makes a DC 20 Use Magic Device check may use this spell as if casting it from a Spell Storing item. Once the spell is cast, the gem no longer functions as a spell storing item, but is not otherwise damaged. 
+
+Reap Soul (Su): Any time the Thief of Souls successfully uses his sneak attack on an enemy with a thinaun weapon, the victim must make a Fortitude save or die. The save is Charisma based, and this is a Necromantic Death Effect. The Thief of Soul’s thinaun blade can take the soul as normal. 
+
+Fuel Life (Ex): At 10th level, the Thief of Souls may destroy any soul gem with a CR equal to his character level in exchange for reverting himself to a young adult age. Doing so has no effect on his mental attributes, and when the soul gem is destroyed the character may choose to alter his appearance to match that of the creature whose soul was destroyed. This gives a +10 bonus to Disguise checks to impersonate the victim. 
+
+Soul Merchant: 
+Upon death, souls pass to the Outer Planes. Evil souls go to the Lower Planes while good souls go the Upper Planes, and some souls wander the places between, but each has a value to the beings that live in those places 
+Where there is value and profit to be made there is a merchant; in the soul trade, that man is the Soul Merchant. Slaver, procurer, and arbitrator, the Soul Merchant is ultimate middle-man in the market of stealing, selling, and buying souls. Like any successful merchant, he enjoys special privileges with his clients. 
+
+Prerequisites: 
+Skills: Knowledge(planes) 10 ranks, Knowledge(religion) 10 ranks, 
+Spells Must be able to cast lesser planar binding 
+Feats: Leadership 
+Class Skills: The Soul Merchant’s class skills (and the key ability for each skill) are Appraise (Int), Bluff (Cha), Concentration (Con), Craft (Int), Decipher Script (Int), Knowledge (all skills, taken individually) (Int), Profession (Wis), and Spellcraft (Int). 
+Skill Points/Level: 2 + Int modifier 
+BAB: Poor (1/2), Saves: Fort: Poor; Reflex: Poor; Will: Good 
+
+Level, Abilities: 
+1 Extract Soul, Extended Contract, +1 Spellcaster Level 
+2 Escort to the Promenade, +1 Spellcaster Level 
+3 Craft Soul Contract, +1 Spellcaster Level 
+4 Soulless Spawn, +1 Spellcaster Level 
+5 Bargain, +1 Spellcaster Level 
+6 Notable Investments, +1 Spellcaster Level 
+7 Credit, +1 Spellcaster Level 
+8 Lifetime Warranty, +1 Spellcaster Level 
+
+Weapon and Armor Proficiency: The Soul Merchant gains no proficiency with armor or weapons. 
+
+Spellcasting: Every level, the Soul Merchant casts spells (including gaining any new spell slots and spell knowledge) as if she had also gained a level in a spellcasting class he had previous to gaining that level. 
+
+Extract Soul(Su): The Soul Merchant may cast soul bind as a spell like ability a number of times per day equal to his intelligence bonus. He must use a gem to hold the soul, and it must be worth at least 100gp. 
+
+Extended Contract(Su): Due to his extensive web of contacts in the Outer Planes, he can call spirits from beyond the grave. He may call undead creatures with his planar binding spells in addition to the usual creatures. 
+
+Escort to the Promenade(Su): At 2nd level, the Soul Merchant may call an Escort with a casting of the lesser planar binding spell. Treat this creature as a Erinyes, but with the additional ability to use gate (travel version only, and only to Finality and the last location it was bound to). This Escort will take a Soul Merchant to Finality, a planar metropolis that has a prominent economy in the buying selling of souls (see Finality in the Locations of Necromantic Importance section). 
+
+Craft Soul Contract(Su): At 3rd level, the Soul Merchant may craft a Soul Contract. This is an item that details the conditions of an agreement or bargain where one party has put up his soul as collateral. Should this party default on the contract, his soul is forced into a gem as detailed in the contract (the gem need not have line of effect to the victim for this to occur). Should the other contractee default, the contract is rendered powerless. If the physical paper of contract is destroyed, the magical effects of the contract are also ended. 
+
+Soulless Spawn: Should a 4th level Soul Merchant gain someone’s soul with a Soul Contract, he may turn their body (if it still lives) into a unique form of spawn called a Soulless. These creatures have all of their normal abilities, but also have the Mindless trait, and must be commanded by the Soul Merchant to perform any action. 
+
+Bargain: By 5th level, the Soul Merchant has become a trusted (or at least known) middle-man in the soul trade. He may sell lesser souls to gain souls of greater value. In effect, he may buy souls in Finality by exchanging enough souls to equal the value of a more powerful soul. 
+The Soul Merchant also gains the ability to increase the HD limitation of any planar binding spells he casts by +2 HD. 
+
+Notable Investments: A Soul Merchant of 6th level has performed substantial dealings in the oft maligned (yet potentially lucrative) trade in souls. The character can act as a fixer for one of the major interested parties. The character gains one ability from the following list: Angelic Favor, Baatezu Favor, Demonic Favor, or Lich's Favor. 
+
+Angelic Favor (Sp):: Due to outstanding effort in the recovery of good-aligned souls and destruction of evil-aligned souls, several celestials owe you favors. Once per day you may cast Greater planar ally as a spell-like ability. This effect only calls a good-aligned celestial, and it only accepts souls as payment. 
+
+Baatezu Favor (Sp): Due to preexisting deals with several Devils, the Soul Merchant may destroy a soul for infernal power. Once per day, the Soul Merchant may gain DR of 15/good and silver for 10 minutes per CR of the creature destroyed. During this time, the Soul Merchant may see in darkness (including magical darkness) and is immune to fire. 
+Demonic Favor (Sp): After hurling a number of notable souls into forgotten maelstroms of torment in the Abyss, the Soul Merchant has gained agreemens in principle to issue commands to Tanar'ri legions that are nominally under the control of his business associates. The Soul Merchant no longer has to pay Demons that have a CR at least 6 less than his own for their services. 
+
+Lich’s Favor (Sp): Due to preexisting deals with several Liches, the Soul Merchant level may destroy a soul for magical power. Once per day, the Soul Merchant may recover a spell slot by destroying a soul of a CR equal to twice the level of the spell. 
+
+Credit: Due to his outstanding record, a 7th level Soul Merchant can use his abilities on credit (without expending souls); however, if he does not pay for these uses with twice as many souls(two souls of the correct value for each ability he used) in one month, his own soul is taken. If for any reason the Soul Merchant's soul cannot be taken, the merchants of Acheron will not extend him any more credit. 
+
+Lifetime Warranty: At 8th level the Soul Merchant may store souls with certain powerful outsiders in the Finality. Should he ever die, these outsiders will sell his souls for the magic objects necessary to return him to life (such as true resurrection, cloning, or true reincarnation magic). If he should ever run out of souls, he can still be brought back on credit... 
+
+Lurker in the Swarm 
+"You cannot know what we know. Your terror smells so… delicious… to… bees." 
+
+Through the ages, terrible necromantic practices have flourished in the dark and forgotten places of the world, but none has been so insidious as the practice of producing Blood Honey. Composed of the dying essences of sentients and produced by undead bees in necromantically-charged obsidian hives, Blood Honey has the remarkable qualities restoring vigor and youth to any that consume it. Kingdoms have fallen and lives have been lost due to the addiction for this substance as the Lurkers in the Swarm have peddled it among the powerful and elite in exchange for dark favors. 
+
+The Lurkers in the Swarm are masters of the art of summoning and controlling undead swarms of bees, adding their minions’ powers to their own. Each maintains a hidden lair for their obsidian hives, commanding their undead bees to produce blood honey. Often, they conduct raids on the lairs of other Lurkers, each attempting to corner the market on Blood Honey and loot the stores of others. When cabals of Lurkers form, terrible plans are hatched and atrocities are committed as these necromancers have the patience of an immortal and the alien insights of an undead insect. 
+
+Prerequisites: 
+Skills: Knowledge (Nature) 9 ranks. Handle Animal 4 ranks 
+Spellcasting: Must be able to cast summon swarm and vampiric touch as arcane spells. 
+Hit Die: d4 
+BAB/Saves: BAB: Poor (as Wizard); Fort: Poor; Reflex: Poor; Will: Good 
+Class Skills: The Lurker in the Hive's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Knowledge (all skills, taken individually) (Int), Listen (Wis), Profession (Wis), Spot(Wis), Search (Int), and Spellcraft (Int). 
+Skills/Level: 2 + Intelligence Bonus 
+
+Level, Benefit 
+1 Speech of the Queen, Swarms of Bees, +1 Spellcaster Level 
+2 Queen’s Right,+1 Spellcaster Level 
+3 Gather the Blood Honey,+1 Spellcaster Level 
+4 Husks of the Swarm,+1 Spellcaster Level 
+5 Harvest of the Bitter Nectar,+1 Spellcaster Level 
+6 The Plague that Swallows the Sun,+1 Spellcaster Level 
+7 The Sight that is Shared,+1 Spellcaster Level 
+8 Greater Plagues, +1 Spellcaster Level 
+9 Spirits of the Hive,+1 Spellcaster Level 
+10 Hive Storm,+1 Spellcaster Level 
+
+Weapon and Armor Proficiency: The Lurker in the Swarm gains no proficiency with armor or weapons. 
+
+Spellcasting: Every level, the Lurker in the Swarm casts spells (including gaining any new spell slots and spell knowledge) as if she had also gained a level in a spellcasting class she had previous to gaining that level. 
+
+Speech of the Queen (Ex): The Lurker in the Swarm can communicate with vermin as if they were capable of communicating in a language she understands. She can likewise communicate with any creature that probably should have been classified as a vermin, subject to the DM's whim. She is fully able to speak to and understand a Hellwasp Swarm, a Phase Spider, or a Gelugon, for example. With respect to such creatures, the Lurker in the Swarm can use her ranks in Handle Animal or Diplomacy to influence their opinion, as well as using her Intelligence bonus instead of her Charisma bonus. 
+
+Swarms of Bees: When the Lurker in the Swarm casts summon swarm, she instead gets a swarm of bees rather than a swarm of bats, rats, or spiders. This is considered a Wasp Swarm (FF, p. 172). 
+
+Queen’s Right (Ex): At 2nd level, the Lurker in the Swarm can control the movements of the Swarms she summons. Any swarms resulting from a casting of summon swarm, or other conjurations on her part will be able to move normally on her turn, and do so under the direction of the Lurker. In addition, the Lurker in the Swarm no longer takes damage while in the space occupied by a swarm. 
+
+Gather the Blood Honey: At 3rd level, the Lurker in the Swarm gains the ability to produce the notorious blood Honey. Composed of the necromantically extracted essence of dying sentients and produced by undead bees, this blood red honey has the ability to heal wounds and restore vigor. When consumed, each dose of Blood Honey has the effects of a restoration and a regenerate spell. 
+Blood Honey is created when the Lurker’s swarms kill a creature with at least 5 HD and an Int of 5 or better and then spends one hour in an obsidian hive. Only one dose can be produced each day by any one swarm. 
+
+Husks of the Swarm: The Lurker in the Swarm gains such power over death and bees that at 4th level she can summon a swarm of Animate Bee Corpses: treat as a Bloodfiend Locust Swarm (FF, p. 170) with the Corpse Template (BoVD, p. 185). 
+
+Harvest of the Bitter Nectar (Su): At 5th level, the Lurker in the Swarm gains the ability to hold onto her youth indefinitely by producing the Royal Jelly form of Blood Honey out of the blood and energy she harvests from living intelligent creatures caught in by her Animate Bees. After her swarms kill a creature with at least 10 HD using negative levels she can make a dose of magical honey sufficient to restore a single character to the Young Adult Age Category. Age penalties are removed, but mental attribute bonuses for her true age do not change. This effect lasts for one month, and then the Lurker must consume another dose of Royal Jelly or else she returns to the true age (and dies if she has surpassed her maximum age). It gradually becomes more difficult to benefit from Royal Jelly. For every year a Lurker maintains her youth in this fashion, it requires an extra dose each month to retain the benefit (but never exceeds 30 doses for a month). 
+
+The Plague that Swallows the Sun A lurker in the Swarm learns the spell insect plague at 6th level even though it is most likely not on her list. The spell is still a 5th level spell, though the Lurker's Swarms of Bees, Queen’s Right, and Husks of the Swarm abilities all apply (allowing the Lurker to produce swarms of bees or animated bee corpses which move at her direction). At 8th level, the lurker learns the creeping doom spell, which again can take the form of various bees and move at her command without needing to expend actions. 
+
+The Sight that is Shared (Su): At 7th level, the Lurker in the Swarm is capable of sharing her senses with all bees within long range (400' + 40' per caster level) of herself, whether or not line of effect exists between the Lurker and the bees. The Lurker can make a Search, Spot, or listen check as if she shared the location of any bees in that area, and anything noticed by the Lurker (or any of the bees) is automatically noticed by the Lurker and all of the bees. The Lurker in the Swarm can see through swarms of bees as if they did not block vision at all. The Lurker can also replicate animal messenger at will, though the messenger can and must be a bee. 
+
+Spirits of the Hive: At 9th level, any time the Lurker in the Swarm summons bees, she may opt to replace summoned bees with Ephemeral Swarms (of bees). The constituents of the swarms are fine creatures, but otherwise conform to the listing of the Ephemeral Swarm (MM3, p. 50). 
+
+Hive Storm(Su): At 10th level, the Lurker in the Swarm contains an improbable number of bees within her own body, and can surround herself with a swarm of them at any time as a move action (these bees are considered a Hellwasp swarm (MM, p. 238) while they are surrounding her). The swarm moves with the Lurker, and while they may be dispersed as normal, the Lurker can replace the swarm at any time with a move action. 
+In addition, the Lurker in the Swarm is immune to the Distraction ability of swarms. 
+
+Heartless Mage 
+"Now that I live forever, it seems that I no longer need you. Our relationship is most likely over." 
+
+Some necromancers seek to emulate the immortality of the lich without losing the pleasures of the flesh, and they master techniques to remove their own heart and place it within a box of polished obsidian. The price is terrible emotional stasis, but in return the Heartless Mage is free from death. Having sacrificed their own hearts in pursuit of power, they are emotionally sterile, driven by pure ambition. 
+
+Prerequisites: 
+Spells: Must be able to cast 5th level arcane spells including magic jar. 
+Skills: Knowledge(arcana) 10 ranks, Knowledge (religion) 10 ranks 
+Hit Die: 1d6 
+Class Skills: The Heartless Mage’s class skills (and the key ability for each skill) are Concentration (Con), Craft (alchemy) (Int), Knowledge (all skills taken individually) (Int), Profession (Wis), Search (Int), and Spellcraft (Int). 
+BAB: Poor (1/2), Saves: Fort: Good; Reflex: Poor; Will: Good 
+
+Level, Abilities: 
+1 Box the Mortal Heart, +1 Spellcaster Level 
+2 Lessons of the True Heart ,+1 Spellcaster Level 
+3 True Ownership ,+1 Spellcaster Level 
+4 Heartless Resurrection ,+1 Spellcaster Level 
+5 Heartless Immortal , +1 Spellcaster Level 
+
+Weapon and Armor Proficiency: The Heartless Mage gains no proficiency with armor or weapons. 
+
+Spellcasting: Every level, the Heartless Mage casts spells (including gaining any new spell slots and spell knowledge) as if he had also gained a level in a spellcasting class he had previous to gaining that level. 
+
+Box the Mortal Heart(Ex): At 1st level, the Heartless Mage removes his own heart and places it within an obsidian box worth at least 1,000 gp. The effect of this transformation is that whenever the Heartless Mage is killed, the obsidian box holding his heart may be used as a focus component to a raise dead or resurrection spell. Using his heart in this way means that he is returned to life without level or XP loss. Should the Heartless Mage’s heart be destroyed or removed from the box, he is instantly killed wherever he stands. 
+In addition, each level of Heartless Mage grants a cumulative –1 penalty on all Charisma-based checks. Also, from this point onward the Heartless Mage does not age further or advance in age categories. 
+
+Lessons of the True Heart: At 2nd level, a Heartless Mage may use any of the following spells as spell-like abilities: heart of stone, hoard life, and false life, each usable once per day. When he uses these abilities he must use the obsidian box holding his heart as a focus component, and the box counts as the final resting place of his heart for the effects of heart of stonethis spell. 
+
+True Ownership (Sp): At 3nd level, the Heartless Mage improves the mystical connection to his heart. He may cast scrying and discern location as a spell-like abilities at will, but only if he is seeking the obsidian box holding his heart. 
+
+Heartless Resurrection: At 4th level, the Heartless Mage does not die when his body is killed. Instead, his soul is transferred to the obsidian box containing his heart (treat as a tiny construct with a hardness of 20 and no movement abilities). While in this form, he may cast magic jar at will as a spell-like ability(caster level equal to his character level, and his obsidian box is the focus). For the purposes of this effect, soulless bodies in perfect physical condition (such as clones preserved by gentle repose or soulless bodies produced by magic jar effects) can be targeted by this effect as if they were living. If the body possessed is a duplicate of the Heartless Mage’s own body (via clone or a simulacrum spell, for example), successful use of this ability counts as a true resurrection on the Heartless Mage with a material component being the body he is possessing (it is consumed). 
+
+Heartless Immortal: When a Heartless Mage is possessing a body with his Heartless Resurrection ability, he may perform a 12-hour ritual costing 1,000 gp in material components that recreates his current body into duplicate of his original body. This counts as a casting of true resurrection with a material component of the body he is using. 
+
+Speaker for the Dead 
+"For ten thousand years our ancestors have lived and died in this land and not once has the world been swallowed by an unending chasm into the Abyss. They tell me that they are disappointed in your actions, and I am here to make their displeasure known." 
+
+The souls of those that die are drawn inexorably towards the outer planes to await their punishment or rewards as befits the whim of the powerful beings that dwell there – outsiders and the gods themselves. A few get drawn back to the world of the living, but the vast majority become petitioners, and the memories of these lives beyond counting are gradually forgotten and lost to time. 
+
+Or they would be, if the Speakers did not endeavor to catch these memories and keep them safe against a time in the future when they may be needed again. 
+
+Prerequisites: 
+Diplomacy: 4 Ranks 
+Knowledge (History): 9 ranks 
+Languages: Must know at least 4 languages 
+Spellcasting: Must be able to cast Divination and Necromancy spells of levels 1 through 3. 
+Hit Die: d4 
+BAB/Saves: BAB: Poor (as Wizard); Fort: Poor; Reflex: Poor; Will: Good 
+Class Skills: The Speaker for the Dead's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy(Cha), Knowledge (all skills, taken individually) (Int), Profession (Wis), Speak Language, and Spellcraft (Int). 
+Skills/Level: 2 + Intelligence Bonus 
+
+Level, Benefit 
+1 Speak With Dead, +1 Spellcaster Level 
+2 Call Spirits, Well of Knowledge, +1 Spellcaster Level 
+3 Taste of Lethe, Hear the Hungry Spirit, +1 Spellcaster Level 
+4 Education of the Dead, +1 Spellcaster Level 
+5 Proxy of the Dead, +1 Spellcaster Level 
+6 Revenge of the Fallen,+1 Spellcaster Level 
+7 Avenging Souls,+1 Spellcaster Level 
+8 Library of Lost Memories,+1 Spellcaster Level 
+9 Usurp Death’s Kingdom,+1 Spellcaster Level 
+10 Vengeance of the Dead, +1 Spellcaster Level 
+
+Weapon and Armor Proficiency: The Speaker for the Dead gains no proficiency with armor or weapons. 
+
+Spellcasting: Every level, the Speaker for the Dead casts spells (including gaining any new spell slots and spell knowledge) as if she had also gained a level in a spellcasting class she had previous to gaining that level. 
+
+Speak With Dead (Sp): A Speaker for the Dead can use speak with dead as a spell-like ability at will. Unlike a normal caster, they can successfully use the spell more than once on the same corpse, though if a corpse of a creature with a hostile alignment makes its save, speak with dead may not be used again on that corpse for an entire week. 
+
+Call Spirits (Su): The Speaker for the Dead is able to telepathically communicate with any undead creature. She gains a +4 to all Diplomacy, Bluff, Sense Motive, or Intimidate checks when used on undead. 
+In addition, all the of summon undead spells are considered spells known for her. 
+
+Well of Knowledge: By 2nd level, the Speaker for the Dead has begun to have long conversations with the dead, gaining all sorts of odd knowledge. The speaker's levels count as Bard levels for the purposes of Bardic Knowledge. If she does not already have Bardic Knowledge, she gains that ability using only her levels in Speaker for the Dead. 
+
+Hear the Hungry Spirit(Su): The Speaker for the Dead can sense of the presence or absence of undead within 1 mile. She knows their general direction, but cannot pinpoint distance, power, or numbers of undead. 
+
+Taste of Lethe (Ex): A Speaker of 3rd level or higher has honed her skills of remembrance to the point where she is able to draw upon the unending mind of the undead. She is not completely immune to mind affecting magic as an undead is, but her memories are. The Speaker is immune to effects such as modify memory and mind rape, and is even able to drink the waters of the River Styx without losing any precious memories. 
+
+Education of the Dead: The Speaker for the Dead has absorbed vast amounts of information from the spirits of the dead. She is considered to have a minimum of 10 ranks in all Knowledge skills. To surpass the 10 rank minimum, the Speaker must assign skill points as normal to gain a skill at a higher ranks. 
+
+Proxy of the Dead: Undead creatures cannot attack a Speaker for the Dead unless they make a DC 25 Will save (they may make a new save each round). If she casts a spell or attacks them, they automatically make their next save. Unintelligent undead get no save. 
+
+Revenge of the Fallen: At 6th level, the Speaker for the Dead gains the ability to cast animate dead as a spell-like ability at will. Whenever she does so, these undead are not controlled. They form a weak Necromantic Intelligence that has a purpose of finding the people that killed them. This effect cannot create any individual zombies or skeleton with more than 4 HD. 
+
+Avenging Soul: At 7th level, the Speaker for the Dead gains the ability to cast greater create undead as a spell-like ability once per day. Whenever she does so, these undead are not controlled. Each has a weak Necromantic Intelligence that has a purpose of finding the people that killed them. 
+
+Library of Lost Memories: The Speaker for the Dead may cast contact other plane or legend lore as a spell-like ability once per day at 8th level. 
+
+Usurp Death’s Kingdom(Su): A 9th level Speaker for the Dead may alter the purpose of a Necromantic Intelligence. She must perform a ritual that takes 24 hours at the location of the Focus of the Necromantic Intelligence, and this ritual provokes the same response as a Cleansing. When she is done, the Necromantic Intelligence’s purpose changes to anything the Speaker desires. If this is not possible, the Necromantic Intelligence is destroyed. 
+
+Vengeance of the Dead: At 10th level, the Speaker for the Dead may create a Necromantic Intelligence with a purpose of her choosing. This costs 20,000 gp in materials, and circumstances must be appropriate for a Necromantic Intelligence to form. 
+
+Lord of the Damned 
+"Your resistance is interesting, but ultimately futile. Whether now at my hands, or a hundred years hence... you will die. And you will join our legion." 
+
+It is a well known fact that undead are created from natural forces. Great pain, fear, or despair are but a few of the many ways for undead to rise, and the circumstances of one’s death determine what kind of undead one may become, and the raw power that undeath will bestow upon one. 
+The Lord of the Damned in as earnest student of this phenomenon, and a practitioner of the most vile of tortures. He creates undead not by magic or negative energy, but by his understanding of the psychology and physiology of undeath. He controls his creations not by supernatural power, but by shattering the mind within the undead shell and reshaping it to his own purposes. To him, the greatest weakness of the undead is not that they are the walking dead, but that they were once alive. 
+
+Prerequisites: 
+Skills: Knowledge (Religion) 9 ranks, Handle Animal 4 ranks 
+Alignment: Any Evil. 
+Spellcasting: Must be able to cast Divine Necromancy spells. 
+
+Hit Die: d8 
+Class Skills: The Lord of the Damned’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal(Cha), Knowledge (arcana) (Int), Knowledge (history) (Int), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), and Spellcraft (Int). 
+Skills/Level: 2 + Intelligence Bonus 
+BAB: Medium (3/4), Saves: Fort: Poor; Reflex: Poor; Will: Good 
+
+Level, Benefit 
+1 Rebuking/Turning, Lord of the Damned Creation Feat, Aura of Evil, +1 Spellcaster Level 
+2 Train Undead, +1 Spellcaster Level 
+3 Lord of the Damned Creation Feat,+1 Spellcaster Level 
+4 The Hunger Denied, +1 Spellcaster Level 
+5 Lord of the Damned Creation Feat,+1 Spellcaster Level 
+6 Heel to the Master, +1 Spellcaster Level 
+7 Lord of the Damned Creation Feat, +1 Spellcaster Level 
+8 Parade of Atrocities, +1 Spellcaster Level 
+9 Lord of the Damned Creation Feat,+1 Spellcaster Level 
+10 The Obsession,+1 Spellcaster Level 
+
+Weapon and Armor Proficiency: The Lord of the Damned gains no proficiency with armor or weapons. 
+
+Spellcasting: Every level, the Lord of the Damned casts spells (including gaining any new spell slots and spell knowledge) as if he had also gained a level in a spellcasting class he had previous to gaining that level. 
+
+Rebuking/Turning (Su): The Lord of the Damned gains the ability to convert uses of Turning into Rebuking or uses of Rebuking into Turning regardless of alignment or god. Levels in Lord of the Damned stack with any other class levels that provide Turning or Rebuking. 
+
+Lord of the Damned Creation Feat: At first and every subsequent odd numbered level, the Lord of the Damned may choose any Necromantic Creation feat if he would normally qualify to take it. When he uses a feat learned with this class feature, he can and must create undead from living subjects (instead of corpses, as is normal for most of these feats). 
+
+Aura of Evil: The Lord of the Damned radiates evil at a power equal to his level. This feature stacks with any other class features that cause a character to radiate evil, such as those of evil clerics or blackguards. 
+
+Train Undead: At 2nd level, the Lord of the Damned may train any uncontrolled undead as if they were Magical Beasts by using the rules for the Handle Animal skill. Undead only need to be “reared” for one month for them to be loyal to the Lord of the Damned, and intelligent undead do not need to be taught tricks. The Lord of the Damned may substitute Knowledge(Religion) for Handle Animal when training undead. 
+
+The Hunger Denied (Su): At 4th level, the Lord of the Damned radiates an effect similar to an antilife shell, except that it only affects undead. He may end or renew this effect as a move action. 
+
+Heel to the Master (Su): If a 6th level Lord of the Damned expends two uses of Turning/Rebuking while making a Rebuking attempt, any undead that would normally be Rebuked are instead Commanded (limited by the normal amount of undead he can command). 
+
+Parade of Atrocities: At 8th level, the Lord of the Damned gains some of the abilities of a Necromantic Intelligence. He sees anything that any undead he has created sees, and he may alter the weather as a Necromantic Intelligence within a radius of 1 mile for every two character levels. Any creature of HD 1 or less violently killed within the radius of this weather becomes a Zombie under his control. 
+
+The Obsession: By 10th level, the Lord of the Damned has learned the exact circumstances needed to turn himself into a Lich. He does not gain a level adjustment or expend gold or experience points for this transformation, and he must designate one Tiny-sized magical object to become his phylactery.
+
+Necromancers with Style
+
+Necromantic Creation Feats:
+Any feat with the [Necromatic] tag is a necromantic creation feat. This means that it is merely one part of the dark tradition of necromancy; other means such as necromancy spells or other effects can create these undead, but this an easy path for the serious Necromancer. One trait shared by these feats is that each feat has a separate control pool for the undead it creates. For example, if a necromancer has the Path of Blood feat and the A Feast Unknown feat, he may control up to his unmodified charisma modifier in vampires or vampire spawn in addition to controlling up to his unmodified charisma modifier in ghouls. It is a move action to give commands any one undead creature. Any undead controlled by this feat cannot create undead or use the Spawn Undead ability.
+The rituals are inexpensive, but require the flesh and blood of intelligent creatures as well as living creatures or fresh corpses as subjects. Any additional costs or conditions are listed in the individual feat. These rites take 1 hour per CR of the creature created, and can only be performed at night or in a location that has never been touched by the sun (such as a deep cave). The maximum CR of an undead creature created with these rites is two less than the creator’s character level.
+Materials to create any undead always cost at least 25 gp per hit die. Creating undead by these method generally requires at least an hour.
+
+Undead Feats
+The powers of the undead are legendary, in part because they are so varied. A feat with the [Undead] tag can only be selected or used by a character who is undead. 
+
+Feats:
+
+A Feast Unknown [Necromantic]
+You have partaken of the feast most foul and count yourself a king among the ghouls.
+Prerequisite: You must have consumed the rapidly cooling flesh of an intelligent mortal creature. Must be evil.
+Benefit: You can create Ghouls or Ghasts from any dying person (at -1- to –9 hps). Any undead you create have the Scent special quality. 
+In addition, any time you completely consume the flesh of a sentient creature, you regain 5 hps per HD. 
+You automatically control up to your Charisma modifier in undead created by this feat, but no undead can have a CR greater than your character level.
+
+The Path of Blood [Necromantic]
+You have learned the dark and selfish rites that create vampires, the legendary immortal blood drinkers of the night.
+Prerequisite: character level 5
+Benefit: You can create Vampires and Vampire Spawn. Your unintelligent undead heal fully at the next sunset following them killing a living creature with a piercing or slashing attack. A spellcaster with this feat has access to any spell with a [blood] component.
+You automatically control up to your unmodified Charisma modifier in undead created by this feat, but no undead can have a CR greater than two less than your character level.
+
+Body Assemblage [Necromantic]
+The discarded husks of life are nothing more than a building material to you.
+Prerequisite: Caster Level 1, ability to cast 1st level spells of the Necromancy school.
+Benefit: You may create skeletons and zombies that serve you alone.
+You automatically control up to your unmodified Charisma modifier in undead created by this feat, but no undead can have a CR greater than two less than your character level.
+Special: A first or second level character can create undead less than their own CR, but each undead creature counts as two for control purposes.
+
+Feed the Dark Gods [Necromantic]
+You have attracted the attention of dark gods and demon lords, and they are willing to grant dark life to your creations in exchange for pain and power.
+Prerequisite: Any two necromantic feats, character level 7, 10 ranks in Knowledge(Religion) 
+Benefit: You may create any undead creature through the art of sacrifice. For every CR of the creature you wish to create, you must sacrifice one sentient soul (Int of 5 or better) and 500 gp. For example, if you wish to create a CR 8 Slaughterwight, you must sacrifice eight sentients and 4,000 gp. You cannot create any undead with a CR greater than two less than your character level.
+You automatically control up to your unmodified Charisma modifier in undead created by this feat, but no undead can have a CR greater than two less than your character level.
+
+Wrappings of the Ages [Necromantic]
+The ancient secrets by which unlife can be sustained in mummification have been unearthed.
+Prerequisite: character level 8
+Benefit: You can create mummies. In addition, any undead you create has their natural armor increase by +3. Also, any time your undead rest (take no actions) in an enclosed space that has never been touched by the sun, the location counts as a Tomb for them as long as they inhabit it (see New Rules). In all other ways, the area is not a Tomb.
+You automatically control up to your Charisma modifier in undead created by this feat, but no undead can have a CR greater than two less than your character level.
+
+Whispers of the Otherworld[Necromantic] 
+You have learned the tricks of torturing a soul past the veil of life, and into the shadow of death. 
+Prerequisite: character level 4 
+Benefit: You may create incorporeal undead. In addition, any undead you create have a +2 to Initiative, +4 to Move Silently checks, and Lifesight as a Special Quality.
+You automatically control up to your Charisma modifier in undead created by this feat, but no undead can have a CR greater than two less than your character level.
+
+Fairy Eater
+By consuming the flesh of fairies, you have absorbed a fraction of their magic.
+Prerequisite: A Feast Unknown, must have eaten the flesh of a creature with the Fey type.
+Benefit: All figments and glamers you cast have their duration extended by two rounds. In addition, all spells from the Trickery Domain are considered spells known for you, you gain a +4 to Disguise checks, and you can choose to count as a Fey for the effects of spells, magic items, or prerequisites for feats or prestige classes.
+
+Heavenly Desserts
+By gorging on the sweet flesh of angels, you have digested a portion of their divine essence.
+Prerequisite: A Feast Unknown, character level 10, must have eaten the flesh of an Angel, Archon, Eladrin, or Deva.
+Benefit: You gain the ability to cast one spell from the Half-Celestial template per day as a spell-like ability (limited by your HD on the Half-Celestial chart). In addition, all spells from the Gluttony Domain are considered spells known for you, you gain a +2 to Diplomacy checks, and you can choose to count as Good for the effects of spells or magic items.
+
+Devil Preparation
+By learning dark culinary techniques, you have learned to consume the flesh of devils, demons, and other infernals, absorbing their taint and some of their power.
+Prerequisite: A Feast Unknown, character level 10, must have eaten the flesh of a Devil or Demon.
+Benefit: You gain the ability to cast one spell from the Half-Fiend template per day as a spell-like ability (limited by your HD on the Half-fiend chart). In addition, all spells from the Evil Domain are considered spells known for you, you gain a +2 to Intimidate checks, and you can choose to count as a Tanari or Baazetu for the effects of spells, magic items, or prerequisites for feats or prestige classes.
+
+Child Necromancer 
+An obsession with death and experimentation with necromancy early in your childhood perverted your body and blossoming magical talent. As a result, your body never aged past childhood, and you are an adult in a child’s body, magically powerful but physically weak.
+Prerequisite: Caster level 1, must know at least one necromancy spell of each spell level you can cast. 
+Benefit: All Necromancy spells you cast are at +4 caster level, and you gain the effects of Weapon Finesse for all Necromancy touch attack spells you use (if you desire). You have –4 Strength, and appear to be a child despite your actual age category (this does not prevent penalties or bonuses from advancing in age categories, or stop the aging process). You are one size category smaller than normal for your race (do not further adjust ability modifiers). If you are a spontaneous caster, you may permanently exchange any spell known for any Necromancy spell you possess in written or scroll form. If you are a preparation caster, you may learn any Necromancy spell you possess in written or scroll form from any list, and you may not select Necromancy as a restricted school. These Necromancy spells may be from any list, can be exchanged at any time, and once gained are cast as spells of your spellcasting class. These spells remain as spells known even if you later lose this feat.
+Special: This feat can only be taken at 1st level. If circumstances ever cause a character to no longer meet the prerequisites of this feat, they may choose any metamagic feat they qualify for to permanently replace this feat.
+
+Blood Painter 
+By painting magical diagrams out of your own blood, you can spontaneously cast spells using only your own
+life energy. This is especial use to casters who prepare spells, or to casters who have run out of spells.
+Prerequisite: Path of Blood, Caster level 5, Spellcraft 4 ranks
+Benefit: At any time, a caster with this feat can cast any spell he knows by painting a magical diagram on a flat 10’ by 10’ surface. This takes one minute per spell level, and deals two points of Constitution damage per spell level to the caster (or loses a like amount of Blood Pool if he has one). If the caster's current Con or Blood Pool is less than double the spell's level, the spell cannot be cast.
+Any spells cast with this feat are Supernatural effects.
+
+Sleep of the Ages
+Your mastery of ancient mummification techniques has revealed a secret technique for sleeping away the ages.
+Prerequisite: character level 8, Wrappings of the Ages, you must remove all of your internal organs and place them within canoptic jars during a magic ritual
+Benefit: By arranging focuses worth 1,000 GP in a ritual manner and wrapping yourself in the funeral arrangements of a mummy, you can initiate the Sleep of the Ages. Until your focuses are disturbed, you will stay in suspended animation. In this state, you do not age, breath, need to eat, or are subject to any effect requiring a Fort Save.
+As a side effect of learning this technique, you remove all of your internal organs and place them within canoptic jars during a magical ritual. This process does not harm you, and from this point onward you are no longer subject to critical hits or sneak attacks. Having your organs in canoptic jars has no other game effect, but if they are destroyed you no longer gain the effects of this feat (your organs magically return to your body and you must remove them again to regain the use of this feat.)
+
+Boneblade Master
+You have mastered the alchemic processes needed to create boneblades, as well as their use in combat. 
+Prerequisite: Craft(alchemy) 4, Craft 4 (scrimshaw)
+Benefit: You are considered to be proficient in the use of any weapon made from the special material Boneblade, and you may craft weapons out of Boneblade. In addition, you are considered to have the Improved Critical feat for any boneblade weapons you use in melee combat. 
+You also gain a +2 to Initiative checks.
+
+Ghost Cut Technique
+Study of the ephemeral essence of incorporeal undead has taught you combat techniques that transcend the limitations of the flesh.
+Prerequisite: Whispers of the Otherworld 
+Benefit: Each day, you can use the spell wraithstrike as swift action spell-like ability a number of time equal to half your character level. 
+You also gain a +2 to initiative checks, a +4 to Move Silently checks, and Lifesight as a Special Quality.
+
+Enervating Touch [Undead]
+Your undead nature allows you to drain the life out of living victims.
+Benefit: Your unarmed attacks and natural weapons inflict one negative level. The DC to remove that negative level is Charisma based. You gain 5 temporary hit points every time you inflict a negative level on an intelligent creature in this way.
+
+Control Spawn [Undead]
+Your victims serve you eternally in death.
+Prerequisite: Enervating Touch
+Benefit: when a creature dies from the negative levels you inflict and rises as a Wight, it comes under your control. At any one time, you may control a number of Wights in this manner equal to your Charisma modifier (minimum of one). If you create additional Wights, you choose which spawn you lose control over.
+
+Paralyzing Touch [Undead]
+The touch of your clawed hand freezes the lifeblood of the hardiest of mortals.
+Prerequisite: Ghoul
+Benefit: Your unarmed strikes and natural attacks cause paralysis for one minute unless your victim makes a Fortitude save. This save is Charisma based.
+
+The Necronomicon
+
+Necromancy as a school is possessed of some of the most powerful and game defining spells ever imagined in the worlds of Dungeons and Dragons. Magic jar, wail of the banshee, and clone can practically be a world threatening plan for a BBEG all by themselves. In fact, that's been done several times. But Necromancy as a school suffers greatly for this attention. Though the earth shaking power for dark lords is well represented, the low levels of necromancy have been largely ignored by generations of authors. It is our intention to produce a short list of spells that allow a low level Necromancer to be memorable and effective without constantly falling back on the old stand-by of having Spell Focus: Conjuration.
+
+The [Healing] subschool:
+The spell cure light wounds has no business being in the school of Conjuration. It's not that you can't make an acceptable argument for the existence of "conjuration" that makes people feel better – that's actually pretty easy to rationalize. It's that cure light wounds doesn't work the way a spell that was in Conjuration would work. It doesn't create healthy flesh to fill up wounds – it channels Positive Energy into the creature and makes them feel better or worse depending upon how they react to that sort of thing. As described, the [Healing] subschool needs to be in the same school as inflict light wounds, because it does the same thing. Logically speaking, that could be Evocation (because Evocation handles any Energy Channeling), or it could be Necromancy (because Necromancy can do pretty much anything with Positive or Negative Energy). We suggest having the [Healing] subschool in Necromancy, but only because this isn't The Tome of Evocation. If you decide to make these spells Evocation spells for your home game, we won't stop you.
+
+Congealing Consumption
+Necromancy
+Level: Sor/Wiz 2
+Components: V, S
+Casting Time: 1 Standard Action
+Range: Medium
+Area: 10 foot radius burst.
+Duration: Instantaneous, and 1 round/level (see below)
+Saving Throw: Willpower Negates
+Spell Resistance: Yes.
+
+As the necromancer finishes the final incantations, a dark cloud arises and envelopes the souls of those within.
+
+Any creature within the area when the spell is cast must make a Willpower save or be nauseated for one round per level of the caster.
+
+Curse of Crumbling Conviction
+Necromancy
+Level: Sor/Wiz 4
+Components: V, S
+Casting Time: 1 Standard Action
+Range: Medium
+Target: One Creature.
+Duration: Instantaneous
+Saving Throw: Willpower Negates
+Spell Resistance: Yes.
+
+The avenging angel glared down with menace at the necromancer. She raised her flaming sword even as he completed his spell. He met her smoldering gaze levelly. "Why?" he asked. It was a question she could not answer…
+
+If the target fails their save they no longer feel strongly about people, ideals, or things. The target's alignment becomes neutral if it wasn't already, and the creature becomes indifferent to everyone, including the caster. This effect is an instantaneous shift, and in no way prevents a creature from responding to subsequent diplomacy or threats. This lack of purpose is an oppressive feeling for intelligent creatures, who will gladly adopt the alignment of whatever creature next persuades them to being helpful. Creatures with an alignment subtype will gradually find their purpose again – regaining the alignment of their subtype in a d4 days unless they already have a new one.
+
+Dark Symmetry
+Necromancy
+Level: Sor/Wiz 2
+Components: S
+Casting Time: 1 Standard Action
+Range: Medium
+Target: One Creature.
+Duration: Concentration
+Saving Throw: Willpower Negates
+Spell Resistance: Yes.
+
+Her hands slow down from the frenzied pace and the necromancer's shadow extends into the target's. The warrior's sword arm slows and holds fast. A smile flashes across her face, and she takes a step forward. The warrior unsteadily takes a step backwards, a look of panic crossing his face. 
+
+If the victim fails their saving throw, they are helpless and unable to voluntarily move until the spell is terminated. Further, if the caster moves while concentrating upon the spell, the victim simultaneously moves an equal distance in the same direction. If the victim is moved into an occupied space, he falls prone. If the victim is moved off a cliff, he falls.
+
+Form of Death
+Necromancy
+Level: Sor/Wiz 2
+Components: S
+Casting Time: 1Standard Action
+Range: Touch
+Target: One Living Creature.
+Duration: 24 hours
+Saving Throw: Fortitude Negates (Harmless)
+Spell Resistance: Yes (Harmless).
+
+The final incantations completed, the necromancer's skin turned gray, his lips became cold and dry.
+
+A creature affected by Form of Death becomes very much like an undead creature. The target gains [Undead] as a subtype and is affected by any spell or effect that targets Undead specifically. The target is also cured by negative energy and damaged by positive energy. The target is immune to negative energy levels, ability damage, and ability drain. The character will be treated as an undead by those around him, which is both a boon and a bane – while mindless undead won't attack the target unless specifically ordered to and the character gains a +4 profane bonus on all charisma related checks when used on undead creatures, the target also suffers a -4 penalty on Charisma related checks for dealing with living creatures.
+
+Puppet Dance
+Necromancy
+Level: Sor/Wiz 3
+Components: S
+Casting Time: 1Standard Action
+Range: Close
+Target: One Corporeal Creature.
+Duration: Concentration
+Saving Throw: Reflex Negates
+Spell Resistance: Yes.
+
+The necromancer holds her hands up with fingers apart, shadowy tendrils hang down from each finger, tapering into nonexistence before reaching her waist. As the spell reaches completion, larger tendrils appear above the target and hang down to anchor themselves in the victim's flesh.
+
+If the victim fails their saving throw, they are helpless and unable to move voluntarily until the spell is terminated. This spell only affects creatures with a physical body. When the caster spends a standard action to concentrate on the spell, she may opt to have the victim move and perform a physical standard action. The caster cannot force the victim to use their spell knowledge (if any), and any attacks made by the victim use the caster's Base attack Bonus rather than their own.
+
+Sobering Skeletal Stillness
+Necromancy
+Level: Sor/Wiz 1
+Components: V, S
+Casting Time: 1 Standard Action
+Range: Medium
+Target: One Creature with Bones.
+Duration: Concentration
+Saving Throw: Fortitude Negates
+Spell Resistance: Yes.
+
+Chortling like a man possessed, the necromancer contorts his hands into unnatural positions, emitting dreadful crackling sounds of bones grinding against one another. A black aura surrounds his victim, and the sounds of crepitace now come from two…
+
+If the victim fails their saving throw, they are helpless and unable to move until the spell is terminated. This spell only affects creatures who have a skeletal structure, although an exoskeleton does count. Creatures normally immune to paralysis, necromantic effects, or effects requiring a fortitude save that do not objects are still effected by this spell if they have a skeleton (so a zombie ogre is affected, but an iron golem is not).
+
+Tasha's Tomb Tainting
+Necromancy
+Level: Sor/Wiz 1
+Components: V, S, M
+Casting Time: 10 minutes
+Range: Touch
+Area: 40-ft. radius emanating from the touched point
+Duration: Instantaneous
+Saving Throw: See text
+Spell Resistance: No.
+
+The graveyard has a serene feeling; the dead have lain here undisturbed for generations. Above the gate a sign in ancient Dwarven earnestly proclaims that the heroes interred within shall lie in peace forever. The necromancer puzzles through the faint and archaic runes and chuckles to himself. "Not hardly…" he mutters, and begins fishing through his spell component pouch for a black pearl… 
+
+Upon spell completion, the area is free of any consecration, desecration, Forsaken Graveyard, hallow, Tomb, or unhallow effects. If the caster chooses, the area can be considered desecrated for the next 24 hours (the effects are increased as if there had been a permanent altar to an evil god or pantheon in the area).
+
+Material Component: One Black Pearl, worth at least 500 gp.
+
+Tasha's Tomb Transport
+Necromancy
+Level: Sor/Wiz 3
+Components: V, S
+Casting Time: 1 minute
+Range: See Text
+Target: You and objects and willing creatures.
+Duration: Instantaneous
+Saving Throw: See text
+Spell Resistance: No.
+
+The caster finishes the droning incantations and places her hand on the ground, where dark red runes appear in a circle around it. Eerily dark tendrils rise from the shadows and consume everyone and everything within the area. Far away, a black portal opens on the ground and the travelers rise from it covered in a thin sheen of cold sweat.
+
+This spell can only be cast in a Tomb, and it transports the targets to another Tomb of the caster's choice. The caster has no ability to determine where in the Tomb she will end up, but all targets appear together. The target Tomb need not be on the same plane of existence, but the caster must know where the target Tomb is to within one mile. The spell fails if either Tomb is cut off from the Negative Energy Plane (including effects like dimensional interdiction). Total transported creatures and objects cannot exceed 500 pounds per caster level in weight.
+
+Tomb Tile Tessellation
+Necromancy
+Level: Sor/Wiz 2
+Components: V, S, M
+Casting Time: 10 minutes
+Range: Touch
+Area: One ten-foot cube
+Duration: Instantaneous
+Saving Throw: No.
+Spell Resistance: No.
+
+Who knew how long the dead had lain in repose, unmolested and forgotten? Judging by the state of the remains, it was long enough – so the necromancer brought out the charts and began planning out how to make sure it stayed that way.
+
+This spell can only be cast in a place where the dead have lain for at least 50 years without being returned as undead. Each casting makes one ten foot cube eligible to become a Tomb. Once the entire area is eligible to become a Tomb, the entire area becomes a Tomb.
+
+Material Component: One vial of Holy Water or one vial of Unholy Water.
+
+New rules:
+
+The interaction of Undead with the rest of the rules is often less than satisfactory. Part of this is that the undead type itself is extremely overzealous in the game effects it provides. The fact that all undead don't need sleep means that vampires don't have to sleep in their coffins. The fact that undead don't have a Constitution score means that Ghouls can run for exactly zero rounds before they have to make a Con check (that they automatically fail) to continue (and also says it can "run on indefinitely", a base contradiction that makes us sad). The fact that undead are immune to critical hits means that a vampire can't be staked through the heart (even if it was sleeping, which it isn't). But even beyond that fundamental error, the multitude of authors that compromise the Dungeons and Dragons design staff never seemed to get on the same page as to exactly what being undead means – so a surprisingly large number of contradictory statements pepper the products.
+
+And I'm not just talking about how they made an entire Deathless Type when there's already Ghosts (Alignment: Any) right in the core rules.
+
+Subtypes
+The obvious, and slickest, way to handle the excesses of the Undead type would be to simply rewrite the Undead type with a lot less in it and throw down a number of subtypes (mindless for skeletons, amorphous for shadows, and ponderous for zombies) to put in the abilities that each type of undead is supposed to have. But polls have shown that people aren't willing to play with optional rules that do that – but perversely they are willing to add new subtypes to monsters to remove rules instituted by the base template. I don't know why, but DMs are honestly more likely to use an additional subtype that removes an inappropriate game effect from a monster than they are to use a modified base type that doesn't have the inappropriate effect in the first place. So that's how we're going to do it here.
+
+Dark Minded (subtype)
+Undead creatures with an intelligence score have an intelligence that can be influenced, though they are dead and cannot be influenced by appeals to emotion. A dark minded creature has the following traits:
+- Not immune to mind affecting affects.
+- Immune to morale and fear effects.
+- Heals normally
+- Any Bluff, Diplomacy, or Intimidate attempts to influence a dark minded creature are made with a -10 penalty.
+- A Dark Minded creature continues to advance in age categories, growing older and wiser over time. It does not accrue any penalties to its attributes for advancing in age categories, and a Dark Minded creature has no maximum age.
+
+Unliving (subtype)
+An Unliving creature is an undead that mimics many of the capacities of a living creature without truly being alive. An unliving creature has the following game effects:
+- Unliving creatures have a metabolism of sorts, and thus have a Constitution score.
+- Unliving creatures require food (often blood or flesh) and sleep, and are vulnerable to magical sleep effects even if they are otherwise immune to mind affecting effects.
+- Unliving creatures have at least one vital organ, and are subject to critical hits from attackers with at least one rank in Knowledge (Religion).
+- Not destroyed upon reaching 0 it points, though its existence still ends if it reaches -10 as normal.
+- Subject to subdual damage, but can benefit from the Regeneration ability as normal.
+
+Sample creatures with the [Dark Minded] subtype:
+Liches
+Nightshades
+Vampires
+
+Sample creatures with the [Unliving] subtype:
+Ghouls
+Necropolitan
+Vampires
+
+Undead and Aging
+Undead don't age. They don't get any older or more decrepit over time, that's the whole point. A creature with the undead type does not grow older at all, unless further modified by the Dark Minded subtype. This probably should have been in the Monster Manual.
+
+Becoming Undead
+
+The basic rules for transforming into Undead were never intended to be playable by player characters. And thus it is unsurprising that the legions of the damned are not only unsatisfying, but actually unplayable when placed in a game. The following are templates that can be added to a character to make them into an Undead without actually changing their Level Adjustment. If a player wants to explore the legendary powers available to some of these creatures, they are encouraged to take Prestige Classes available to undead or to take one or more [Undead] feats that can grant the character these abilities within the normal level progression context. Each undead creature type has access to a special class that characters may take to advance their special abilities.
+
+Revenants
+"Fear me first before all other evils under the heavens. Before even Death, for I am hatred and do not die."
+
+A revenant is the victim of a murder driven to avenge their own death. A game master might allow a character to return from the dead as a revenant if their character died in a particularly unfair fashion or if their character had a lot left to do.
+
+Character Modifications:
+Type: The character's type changes to Undead and the character's former type becomes a subtype with the "augmented" modifier. The character also gains the Dark Minded subtype.
+Hit Dice: The character's BAB, Saves, and skills are all unaffected. The character must reroll his Hit Points, but every hit die is a d12.
+Ability Scoress: The character loses his Constitution score.
+Alignment: The character's alignment changes to Lawful.
+Special Qualities: The character cannot be turned, but may be rebuked. The character heals completely at the setting of the sun, unless he is in a Tomb or hallowed area. This healing can even bring him back from destruction, but if his body is nailed to the ground (or in a Tomb or hallowed area), he can never come back from the dead by any means.
+Level Adjustment: +0
+
+Vampires
+"An eternity of loneliness and betrayal is, ultimately, an eternity."
+
+A vampire is an unliving mockery of life that lives by cruelly consuming the blood of the innocent. Only characters slain by a vampire's Constitution Drain rise as vampires, and even then only if they have 5 hit dice or more. Characters with less hit dice become monstrous vampire spawn and do not retain their abilities. 
+
+Character Modifications:
+Type: The character's type changes to Undead and the character's former type becomes a subtype with the "augmented" modifier. The character also gains the Dark Minded and Unliving subtypes.
+Hit Dice: The character's Hit Dice, BAB, Saves, and skills are all unaffected.
+Ability Scoress: The character gains a +2 bonus to his Strength and Charisma.
+Alignment: The character's alignment changes to Evil.
+Special Attacks: The character can drain blood from a helpless or willing victim, inflicting 2 points of Constitution Drain per round. The character heals 5 points for each point of Constitution drain in this way, and consuming 4 points of Constitution from intelligent creatures is considered enough "food" for one day (and the vampire gains no sustenance from any other food). Humanoids slain by this Constitution Drain may rise as vampires or vampire spawn (though the character has no control over them unless granted by another ability).
+Special Qualities: The character gains Turn Resistance +2. The character suffers 2d6 damage and is considered staggered every round he is exposed to direct sunlight. This damage cannot be healed by any means until the character is in a place with no light at all (such as a coffin). A vampire character is vulnerable to Light effects.
+Level Adjustment: +0
+
+Vampire Paragon
+Hit Die: d6
+BAB/Saves: BAB: Poor (as Wizard); Fort: Bad; Reflex: Good; Will: Good
+Class Skills: The Swordwraith Paragon's class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (all skills, taken individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Sleight of Hand (Dex), Speak Language (n/a), Spellcraft (Int), and Swim (Str).
+Skills/Level: 4 + Intelligence Bonus
+
+Level, Abilities:
+1 Blood Pool, Gaseous Form, Flaw, +1 Spellcaster Level
+2 Hypnotic Gaze, +1 Spellcaster Level
+3 Command Spawn, Regeneration, Flaw, +1 Spellcaster Level
+
+Weapon and Armor Proficiencies: The Vampire Paragon gains no new armor or weapon proficiencies.
+
+Spellcasting: Every level, the Vampire Paragon casts spells (including gaining any new spell slots and spell knowledge) as if she had also gained a level in a spellcasting class she had previous to gaining that level. If the character does not have any levels in any spellcasting classes when she takes her first level of Vampire, this class feature gives her levels in Sorcerer spellcasting. 
+
+Blood Pool (Ex): A Vampire Paragon may "store" blood she has drained from intelligent creatures against future need and draw upon this blood to power her body or her magic. If a Vampire Paragon consumes the Constitution of an intelligent creature after she has already fed for the day, excess Constitution drained adds to her Blood Pool. A Vampire Paragon's Blood Pool can never exceed her character level plus her class level of Vampire Paragon. Constitution drained after the Blood Pool is filled is wasted.
+
+A Vampire Paragon may spend a point of her Blood Pool to heal herself of five points of damage. She may spend 4 points of Blood Pool to forgo needing to feed for one day. A spell being cast may be enhanced with any metamagic feat the Vampire Paragon knows by spending a number of points of Blood Pool equal to the number of extra levels the metamagic would add to the spell. Using Blood Pool is a free action, but no more than 4 points may be spent in a single round.
+
+Gaseous Form (Su): A Vampire Paragon can assume gaseous form as the spell at will.
+
+Flaw: Increasing the power of the blood within a Vampire is not without difficulties. As the potency of the Vampire's blood grows, so too does the power of her curse. At 1st and 3rd level of Vampire Paragon, the vampire gains an additional weakness related to her blood. Appropriate vampiric weaknesses are too numerous to be listed here, but could include: Inability to enter consecrated or hallowed ground; helplessness in water; repulsion (as the spell) by garlic; vulnerability to silver; daylight powerlessness (as a specter); dazed by spilled grains (2d4 rounds); nauseated by Holy Water (1d4 rounds); Inability to enter a hearth unless invited.
+
+Hypnotic Gaze (Su): At 2nd level, a Vampire Paragon gains the ability to hypnotize creatures which meet its gaze. The Vampire Paragon may make use its gaze on one creature within short range each round as a Swift action. Creatures are affected as by a hypnotism spell except that there is no hit die cap. The hypnotism effect ends if the Vampire Paragon no longer maintains the gaze (for example, by attempting to hypnotize a new victim). This is a Mind Affecting Enchantment effect, the DC is Charisma based.
+
+Command Spawn: Vampire Spawn created by a Vampire Paragon of 3rd level are under the Vampire Paragon's control.
+
+Regeneration (Ex): At 3rd level a Vampire Paragon regenerates, healing subdual damage every round equal to her character level. Damage from critical hits, fire, positive energy, aligned weapons, or wood inflict lethal damage on a Vampire Paragon.
+
+Ghouls
+"The flesh of heroes reeks of their strength in death even as it is embodied in life. The taste is exquisite beyond description. As you quiver there and watch my meal, I want you to know that I allow you to live only in the hope that you can get word to more who think they have the strength to end my reign of terror."
+
+Ghoul Fever is a horrifying illness that incites an almost insatiable craving for the flesh of humanoids. Characters with at least 2 class levels brought to zero Constitution by Ghoul Fever find their constitution restored and begin their unlife as Ghouls. Characters with less than 2 class levels simply die and rot.
+
+Character Modifications:
+Type: The character's type changes to Undead and the character's former type becomes a subtype with the "augmented" modifier. The character also gains the Dark Minded and Unliving subtypes.
+Hit Dice: The character's Hit Dice, BAB, Saves, and skills are all unaffected.
+Ability Scoress: The character's Dexterity increases by +2.
+Alignment: The character's alignment changes to Evil.
+Special Attacks: The character gains a bite attack that inflicts an amount of damage appropriate to her size. She also is a carrier of Ghoul Fever.
+Special Qualities: The character gains Turn Resistance of +2. The character cannot eat anything other than raw meat (vegetables or cooked foods are forcefully vomited up, leaving the character sickened for an hour), and her total dietary requirements are not reduced.
+Level Adjustment: +0
+
+Ghoul Paragon
+Hit Die: d8
+BAB/Saves: BAB: Good (as Fighter); Fort: Good; Reflex: Good; Will: Bad
+Class Skills: The Swordwraith Paragon's class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (local) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), and Use Rope (Dex).
+Skills/Level: 6 + Intelligence Bonus
+
+Level, Abilities:
+1 Paralysis
+2 Pestilence, +1d6 Sneak Attack
+3 Stench, Improved Pestilence
+
+Weapon and Armor Proficiencies: The Ghoul Paragon gains no new armor or weapon proficiencies.
+
+Paralysis (Ex): Characters struck by a Ghoul Paragon's unarmed strikes or natural weapons must make a Fortitude save or become paralyzed for 1d4+1 rounds. The Save DC is Charisma based. Elves are immune to this effect.
+
+Pestilence (Ex): A Ghoul Paragon of 2nd level is immune to disease, but spreads it quite easily. Every disease the Ghoul Paragon is ever exposed to is retained within his body (at the very least, this includes ghoul fever), and every time the Ghoul Paragon inflicts lethal damage with an unarmed strike or natural weapon, he also exposes the target to one of those diseases.
+
+Sneak Attack (Ex): At 2nd level, the Ghoul Paragon gains a die of Sneak Attack as a Rogue. Levels of Ghoul Paragon stack with Rogue and similar classes for purposes of overcoming Uncanny Dodge.
+
+Stench (Ex): A Ghoul Paragon of 3rd level stinks so dreadfully that all other creatures within 10 feet must make a Fortitude save or become sickened for 10 minutes. A creature which successfully saves may not be affected by the Ghoul Paragon's stench for 24 hours. This is a Poison effect, the save is Constitution based.
+
+Improved Pestilence (Su): At 3rd level a Ghoul Paragon becomes able to magically speed up the disease process in his victims. The initial incubation period for any disease he passes with the Pestilence power becomes 1 round, and the save DC of any such disease is now Charisma based.
+
+Sword Wraith
+"I remain… because I like to kill."
+
+Mercenaries devoted strongly enough to a life of war that they carry on in death their endless campaign of destruction. A character slain in battle may return as a Sword Wraith if his services were hired under false pretenses or if his exploits were particularly impressive before his life finally ended (at the discretion of the DM).
+Sword Wraiths appear somewhat insubstantial and have faintly glowing eyes, but they are not truly incorporeal and their eyes do not produce enough light to modify vision penalties.
+
+Character Modifications:
+Type: The character's type changes to Undead and the character's former type becomes a subtype with the "augmented" modifier. The character also gains the Dark Minded and Unliving subtypes.
+Hit Dice: The character's Hit Dice, BAB, Saves, and skills are all unaffected.
+Skills: The character gains a +2 bonus to his Hide and Move Silently checks.
+Alignment: The character's alignment is unchanged.
+Special Qualities: The character gains Turn Resistance +2. 
+Level Adjustment: +0
+
+Swordwraith Paragon
+Hit Die: d12
+BAB/Saves: BAB: Good (as Fighter); Fort: Bad; Reflex: Bad; Will: Good
+Class Skills: The Swordwraith Paragon's class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently (Dex), Ride (Dex), Spot (Wis), and Swim (Str).
+Skills/Level: 2 + Intelligence Bonus
+
+Level, Abilities:
+1 Strength Damage, Alertness
+2 Damage Reduction 5/Magic, Iron Will
+3 Damage Reduction 10/Magic, Stealthy
+
+Weapon and Armor Proficiencies: The Swordwraith Paragon gains no new armor or weapon proficiencies.
+
+Strength Damage (Su): Whenever a Swordwraith Paragon strikes an opponent with a melee weapon, he also inflicts 1 point of Strength damage.
+
+Alertness: A Swordwraith Paragon gains Alertness as a bonus feat at 1st level.
+
+Damage Reduction (Su): At 2nd level, a Swordwraith Paragon gains DR of 5/Magic. At 3rd level, this improves to 10/Magic.
+
+Iron Will: A Swordwraith Paragon gains Iron Will as a bonus feat at 2nd level.
+
+Stealthy: A Swordwraith Paragon gains Stealthy as a bonus feat at 3rd level.
+
+Locations of Necromantic Importance:
+
+Rules for locations that have interesting effects upon the dead are scattered throughout various published sourcebooks. Of primary interest is Black Sand (from It's Hot Outside) which heals undead and can be grown by killing creatures on it (no necromancer should be without a portable hole bottomed with this stuff), and Black Water (from It's Wet Outside) that acts as a desecration effect and is available with a Wizard spell (thereby breaking the stranglehold monopoly of Clerics on getting bonus hit points for their skeletons). But none of those locations are necromantically important. They are essentially quasi-mobile magic items that necromancers like to put in their pants. What follows are some locations that Necromancers will care about for more than a single mining session.
+
+Necromantic Intelligence: 
+Great and terrible crimes are often committed, sometimes causing the dead to rise. When enough dead rise in a single place, or a single act of murder or slaughter is so great as to create dozens of the undead, a Necromantic Intelligence can be born in a location central to the event. In such a place, trees and undergrowth wither and animals die, the sun no longer shines as brightly as mists obscure the sky and evil descends on the land. In such a place, all of those who die become undead and lose their free will. Ghoul or shadow infestations, vampire massacres, sites of great battles or disasters, or even the combined works of cabals of necromancers can create Necromantic Intelligences.
+In the area of a Necromantic Intelligence, the land is either shadowy during the day as dark clouds obscure the sky, or misty (treat as an obscuring mist, even though it may be composed of dust, ashes, or some other substance). Any living creature killed in the area becomes an undead creature with a CR equal to its former CR (DM’s choice, unless the Necromantic Intelligence is Aspected) when the sun next sets.
+The most terrifying facet of a Necromantic Intelligence is that it has a purpose and a will, and it coordinates the undead that compose it. Assume that it is a creature that can see anything that any of its undead can see. Often it will coordinate fiendishly clever tactics using masses of undead to fulfill its purpose. Like a ghost, if it should ever attain its purpose, it will be destroyed. Knowing this, some clever heroes have helped Necromantic Intelligences in an effort to destroy them. A legend lore or bardic knowledge check is often needed to discover an Intelligence’s purpose.
+The Necromantic Intelligence commands the activities of a great number of undead of varying powers. As a rough guide, the Necromantic Intelligence controls undead with CRs equal to the levels of followers attractable by a character with a Leadership score of 35 or more (using the Epic Leadership rules). Challenging the entire Necromantic Intelligence is an EL 11 adventure.
+
+Aspected Necromantic Intelligence: While most Intelligences are random manifestations of negative energy, creating many different kinds of undead, some places are Aspected. These places only create one kind of undead. For example, a Necromantic Intelligence created in a ghoul warren may only create ghouls, while an Intelligence created during a plague may only create plague zombies. Decrease the EL of such an Intelligence by at least 1 as players will prepare tactics suited to that specific kind of undead. 
+
+Cleansing the Focus: Every Necromantic Intelligence has a Focus. This is an area that is the symbolic center of the undead infestation. If anyone can perform a hallow spell at the site of the Focus, the Necromantic Intelligence will be destroyed; however, once the ritual is started, the Necromantic Intelligence will be alerted and it will send all available undead to destroy the caster. 
+
+Tombs
+While most tombs are merely places of rest for remains, some tombs become focal points for Negative Energy as hundred of years pass in the presence of the dead. Also, years of habitation by undead creatures in an enclosed space can also wear at the boundaries of the Negative Energy Plane. Some Necromancy effects can create or exploit this property. The game effect of a Tomb is that all undead inside it gain fast healing 1 and cannot be Turned or Rebuked, and spells with the [Tomb] subtype can be cast within it. Undead cannot be created within the confines of a Tomb, and creatures slain by undead do not become spawn.
+Tombs are always enclosed places, and if they should ever be exposed to sunlight (by smashing in the roof, for example), they lose all special properties and no longer confer effects to undead creatures.
+
+Forsaken Graveyards:
+
+The number of deaths is one per person even without the intercession of powerful magic. And once spells like raise dead are taken into account, it is clear that in Dungeons and Dragons there are significantly more deaths than people. So the locations where the most deaths occurred are simply the locations where the most living people live. The sites with the greatest death count are aspected to life and trade, not to death and destruction. But there are places that are inexorably linked with death, where the dead rise to slay the living. Creating a land of horror such as this requires more than killing a bunch of people (although that certainly helps), the deaths themselves must be meaningless and cruel, the ends coming about through betrayal.
+
+A Forsaken Graveyard is a dangerous place, even for a necromancer. Creatures within a Forsaken Graveyard have Turning Resistance of +3. This makes both turning and rebuking more difficult, and throws salt in the game of both the necromancer and the hunter of the dead. Corpses left within a forsaken graveyard have a tendency to rise up and slay the living from time to time. Every sunset, a number of undead creatures are created and go on a rampage. These undead creatures fall back to death when the sun rises. A body left within a Forsaken Graveyard for more than an hour can be turned into an undead creature even if it had previously been an undead creature and been destroyed. Undead creatures created within a Forsaken Graveyard have an extra 2 hit points per hit die.
+
+A Forsaken Graveyard can be cleansed with four castings of consecrate or desecrate (one at each corner of the area), or a single casting of Tasha's tomb tainting (in the middle). Unfortunately, these spells can only affect it during the nighttime (as during the day, there is literally nothing to cleanse). Once cleansed, any undead created by the Forsaken Graveyard lose their bonuses, but are also not recalled at sunrise. Such undead creatures will continue their rampage until slain. Unlike a necromantic intelligence, the Forsaken Graveyard has no ability to direct the undead against specific targets.
+
+Cleansing a Forsaken Graveyard is normally an appropriate adventure for a 6th level party, and the location itself spawns one CR 7 creature, one CR 6 creature, two CR 5 creatures, and six CR 4 creatures every night. These creatures are undirected in their assaults on the living, and travel individually or in groups of two. A Forsaken Graveyard adventure can be scaled up or down for adventurers of differing power by changing the power levels of the creatures within it, or simply changing the parameters of the encounter. If a standard graveyard is itself small enough that every creature is encountered simultaneously, that would be an EL 11 encounter.
+
+Pools of Deep Shadow:
+
+Veteran players of Dungeons and Dragons often ask "Why don't Shadows just take over the whole world?" Certainly, there are very few residents of the worlds of D&D that can fight against a Shadow at all, and their victims rise from the dead as Shadow Spawn, so it doesn't take a lot of imagination to see where this is going. However, there are a few things limiting the growth of Shadow armies that are not mentioned in the core books at all.
+
+The first is that only intelligent creatures slain by Shadows turn into spawn. That's important, as it means that Shadows cannot simply hunt frogs in the swamp until they number in the tens of thousands before they roll over cities and dragon caves like a fog of Death Incarnate.
+
+But perhaps even more importantly is that almost any time you see a Shadow, or for that matter any incorporeal undead creature, you are looking at a summoned creature. When the Shadow's summoning ends, all of its spawn vanish. Most of the time, an incorporeal undead is summoned forth from the Negative Energy Plane by an object that looks much like a puddle of very oily water, called a Pool of Deep Shadow. Whenever light falls directly upon the pool, or the sun rises high enough in the sky that there are no shadows (about half an hour before and after noon), the summoning effect ends and the Shadow vanishes. When the shadows grow long and darkness has fallen upon the pool, a Shadow is again summoned.
+
+This means that an individual Shadow or Wraith has a very difficult time destroying the whole world, as there is no particular way for them to get more than a day's float from their pool. It also means, however, that areas inhabited by Shadows are extremely dangerous – for even if such a creature is destroyed it will return again the following day. And on every day it will return until those charged with exterminating it are caught unlucky or unaware. In order to permanently destroy such a pool, a flask of Holy Water (or Unholy Water) need simply be poured into it, causing the blackness to depart and the water to become quite clear and drinkable.
+
+Finality
+Finality is a planar metropolis in the Infernal Battlefield of Acheron. Its harsh laws are kept in rigid and uncompromising order by the will of powerful pit fiends, and the city serves as a marketplace for the lucrative trade in souls. Magic items can be bought or sold here, but the currency is always souls (as a planar metropolis, Finality has a gp limit of 600,000 gp). Souls are valued at their CR squared, multiplied by 100 gp. Many items purchased from this location radiate evil, buyer beware. Lodging may be purchased at flat rate of one soul per day per person. The section of Acheron that Finality rests in has the Timeless trait and is mildly Lawfully aligned. The population of The City is about 100,000 people (with uncounted millions of souls), most of whom are Baatezu.
+
+The rules in Finality are uncompromising and bizarre, and the punishments for breaking them are vindictively carried out to the letter by powerful devils. But there is no warfare allowed in the city, and even Celestials and Tanar'ri come to participate in the great mercantile dance of soul collection. Characters must make a Knowledge (Local: Finality) check everyday with a DC of 10 + 2 per day they've been in the city or unknowingly break one of the city's many inscrutable laws (knowingly breaking the law by starting fights or stealing goods is a whole different thing). Punishments range from perplexing to fatal. Characters who stay away from Finality for more than a month are no longer subject to the baroque residency rules and their DCs are returned to 10 the next time they visit.
+
+Necromantic Equipment:
+
+New Materials:
+
+Boneblades: Boneblades are alchemically and necromantically hardened blades made from the bones of intelligent creatures, and the material can only be created by craftsmen with the Boneblade Master feat. For an unknown reason, they only retain their special properties if they are made into light slashing or piercing weapons. Boneblades used in melee combat ignore the damage reduction of any undead creature and can hit incorporeal creatures as if they were magic weapons with the ghost touch property..
+Boneblades made from dragon bones can be combined with the Dragoncrafter feat to produce items with both properties.
+Cost: 1,000 gp per lb.
+
+Blood steel: Blood steel is steel that has been mixed with the blood of certain powerful creatures, making it redder than normal steel and with unusual properties. Weapons made of blood steel do 2 additional points of damage on a successful hit and any armor made of blood steel has an armor bonus two higher. These effects only manifest if the blood steel is allowed to hungrily latch onto its user's flesh, at which point it reduces the bearer’s Constitution by two points. Treat blood steel as normal steel for creatures with no Constitution or creatures protected from this effect.
+Cost: 2,000 gp for a weapon, 1,000 gp for armor or shield.
+
+Black steel: Black steel is steel that has been mixed with necromantically charged obsidian, making it as sharp as adamantine and as dangerous as obsidian. Weapons made of black steel count as adamantine for all effects, but perform as if enhanced with the Ghost Touch and Wounding properties (without additional cost). Characters using items made of Black steel suffer one point of Wisdom drain for every day they are held, worn or carried.
+Cost: 15,000 gp for a weapon, 24,000 gp for light armor, 28,000 gp for medium armor, 32,000 gp for heavy armor.
+
+Tainted obsidian: While normal obsidian often has interesting necromantic properties, tainted obsidian is an actual source of necromantic energy. When a magic item has is made of tainted obsidian, it can provide uses or charges of its Necromancy effects in exchange for doing wisdom drain.
+Cost: +10,000.
+
+Monsters
+
+Perhaps the most important thing about necromancy is the undead creatures themselves.
+
+Artificial Intelligence
+
+When a necromancer creates even a lowly kobold skeleton when his necromantic control limit has already been reached, one or more of the undead creatures already under his control become "uncontrolled". That much is clear to everyone. But what does an uncontrolled zombie do? It's not intelligent, it simply runs a program that causes it to act in a predictable fashion to stimulus. Of course, what that program actually is has heretofore been left undescribed. The actions of uncontrolled undead depend largely on the moral option your game is using for necromancy in general.
+
+Of course, it doesn't make much difference to uncontrolled Wights and the like – they are somewhat intelligent and wholly evil. So they'll be just like any other monster – as tactically savvy as the DM.
+
+Crawling Darkness:
+
+Under the Crawling Darkness option, undead are inherently evil, and act accordingly. The mindless undead hunger for life and are completely ambivalent to all else. If a skeleton has unbroken line of sight to a living creature or object, they will attack it. If living creatures and objects are both visible, the skeletons will bypass objects (such as trees) in order to attack creatures (such as people or horses). Non-living and undead creatures are unmolested unless the skeleton witnesses it attacking an undead creature. Skeletons prioritize targets that they can reach this round without provoking attacks of opportunity over other targets. Skeletons prioritize targets with more hit dice over other targets. Skeletons prioritize targets which are closer over targets more distant.
+
+If a skeleton perceives an undead creature attacking another undead creature, it will attack whichever undead has been in its line of sight for less time. If a skeleton has seen both creatures for an equal amount of time, it comes in on a random side (even if it had previously seen one of the undead creatures in a previous context). If a skeleton is attacked by an undead creature, it will defend itself.
+
+Skeletons wander around in a spiral search pattern attacking any living thing they find. They do not molest non-living things at all, so a skeleton will not open a door or tunnel through a wall unless it is made out of living wood or meat. If a living thing disappears from its vision, the skeleton will go to where the living creature was last seen and begin searching there – unless another living thing is seen (in which case the skeleton will simply move to attack it instead).
+
+Skeletons do not question their perceptions, a closed door or even a curtain can be enough for a skeleton to abandon a pursuit. Skeletons have no sense of smell or irony, and a living victim is forgotten as soon as the skeleton moves to the point of last contact. A skeleton will not walk into what appear to be dangerous or solid objects unless it can see a way to get to a living target that it can currently perceive.
+
+Don't attack unless…
+Since skeletons are mindlessly evil and relentless in their quest to destroy all life, a skeleton is normally ordered to not attack unless specific criteria are evoked. The criteria could be anything from "walking through this doorway without invoking the name of Wee Jas" to "attacking someone wearing the garb of the chosen of Kyuss." If the exact criteria are not met, the skeletons will hold their blades. Most necromancers remember to allow their skeletons leeway to defend themselves, but sometimes even that is overlooked. Controlled skeletons, therefore, are usually under considerable restraints and will often hold their claws in check until after combat has been initiated.
+
+Playing with Fire:
+
+Under the Playing with Fire option, undead are dangerous, but not necessarily evil. Their behavior befits that. Uncontrolled skeletons follow their last set of commands exactly, and those commands are only of the most basic sort. A skeleton last ordered to follow the necromancer who created it will continue to do so – mindlessly marching in the necromancer's wake, its empty eye sockets staring vacantly. It won't make any move to assist the necromancer, nor will it take any further instructions, it will simply follow. Forever. Should a skeleton be last asked to guard an area, it will attack any creature entering the area, though it will make no move to attack creatures outside that area. A skeleton last ordered to chop wood will continue until the forest is splinters or its axe rusts away to nothing.
+
+Skeletons will defend themselves if attacked, and will attack creatures that they perceive attacking other undead. As with the Crawling Darkness, if skeletons see undead attacking other undead, it can rapidly degrade into a free-for-all with skeletons smashing each other with abandon. But they will not instigate such behavior on their own. Skeletons will not leave areas they are assigned to except to pursue creatures which are attacking them.
+
+Skeletons are not curious about their surroundings, and do not question events in their area that do not obviously interact with their latest orders.
+
+Previously Published Monsters:
+
+There are a lot of undead monsters in a variety of sourcebooks. In fact, regional and monster sourcebooks that don't have at least one undead creature in them are by far in the minority. Many of these creatures are supposed to be constructed by powerful Necromancers, and have no rules for powerful necromancers actually doing that. Many of these creatures should rightfully have the Unliving or Dark Minded subtypes. What follows is a list of the Undead already existent in D&D as well as the method of creating them, with the hard character requirements on the second line and suggested building materials on the third. Many Fey and Native Outsiders can be counted as "humanoids" for purposes of creating undead.
+
+
+Abyssal Ghoul (FF): Dark Minded, Unliving (Con 12 – 120 hp). 
+A Feast Unknown: Character Level 12, Knowledge (planes) 4 ranks. 
+Requires the sacrifice of a CR 8 or higher humanoid or fiend.
+Allip (MM): Dark Minded
+Whispers of the Otherworld: Character level 5, Listen 4 ranks
+Requires the name of a unique individual who was completely insane at death.
+Angel of Decay (LM): Dark Minded 
+Feed the Dark Gods: Character Level 17, must sacrifice 15 intelligent creatures, materials costing 7500 gp.
+Atropal Scion (LM): No Modifications
+Feed the Dark Gods: Character Level 13, must sacrifice 11 intelligent creatures, materials costing 6,500 gp.
+Banshee(MM2): Dark Minded
+Whispers of the Otherworld: Character Level 19, wail of the banshee 
+Requires the corpse of a very selfish humanoid
+Bhut (FF): Dark Minded
+Whispers of the Otherworld: Character level 11, Survival 4 ranks. 
+Requires sacrificing an intelligent victim at least two days walk from a city.
+Blaspheme (LM): Dark Minded
+Body Assemblage: Character Level 11, Knowledge (religion) 4 ranks, false life
+Requires pieces of humanoid or giant corpses such that an attribute of 14 or higher is represented in all statistics.
+Bleakborn (LM): No Modifications
+Wrappings of the Ages: Character Level 9, chill touch
+Requires the corpse of a humanoid who died of cold.
+Blood Amniote (LM):
+Path of Blood: Character Level 11, Knowledge (Dungeoneering) 4 ranks
+Requires 20 liters of blood and an alchemist's lab.
+Bloodfiend (FF): Dark Minded, Unliving (Con 17 – 114 hp)
+Path of Blood: Character level 16, knowledge (planes) 4 ranks 
+Requires the sacrifice a demon of CR 8 or higher.
+Bloodmote Cloud (LM): No Modifications
+Path of Blood: Character level 8, knowledge (Nature) 4 ranks
+Requires 20 liters of blood and an alchemist's lab.
+Boneclaw (MM3): Dark Minded, Unliving (Con 19, loses Unholy Toughness)
+Path of Blood: Character level 7, spectral hand
+Requires one humanoid body and the skeletons of 3 other medium creatures.
+Bone Drinker (MM3): Dark Minded, Unliving (Con 14, loses Unholy Toughness)
+Wrappings of the Ages: Character level 8 (6 for Lesser), Craft (alchemy) 4 ranks
+or
+Create undead, caster level 15 (12 for Lesser).
+Requires the corpse of a goblin (lesser) or bugbear (greater).
+Bone Naga (MM2): Dark Minded
+Wrappings of the Ages: Character Level 13, Requires the corpse of a Dark Naga.
+Requires the corpse of a Dark Naga
+Bodak (MM): Dark Minded, Unliving (Con 15 – 76 hp)
+Path of Blood: Character level 10, Knowledge (Religion) 4 ranks
+Requires the corpse of someone extremely evil, or the killing of a humanoid with evil magic.
+Bone Rat Swarm (LM): No Modifications
+Body Assemblage: Character level 5, Knowledge (Nature) 4 ranks
+Requires 1,000 rat skeletons.
+Bone Yard (LM): No Modifications
+Body Assemblage: Character level 16, Craft (alchemy) 4 ranks
+Requires 5 tonnes of bones from any creatures. 
+Brain in a Jar (LM): Dark Minded
+Wrappings of the Ages: Character level 6, Craft (alchemy) 4 ranks
+Requires the removal of the living brain of a creature with an Intelligence of 18+
+Charnel Hound (MM3): Unliving (Con 19, loses Unholy Toughness)
+Body Assemblage: Character level 15, Handle Animal 4 ranks
+Requires 100 humanoid corpses (or proportionately fewer larger corpses of intelligent creatures)
+Cinderspawn (LM): No Modifications
+Whispers of the Otherworld: Character level 8, Knowledge (planes) 4 ranks
+Requires the spot where a Fire Elemental perished.
+Corpse Gatherer (MM2): No Modifications
+Body Assemblage: Character level 21, 
+Requires and consumes a forsaken graveyard.
+Corpse Rat Swarm (LM): No Modifications
+Body Assemblage: Character level 6, Knowledge (Nature) 4 ranks
+Requires 1,000 rat corpses.
+Crawling Head (FF): No Modifications
+Body Assemblage: character level 22, Use Magic Device 4 ranks 
+Must have at least 100 humanoid corpses.
+Crimson Death (MM2): Dark Minded
+Path of Blood: Character level 13, Hide 4 ranks.
+Requires a humanoid, a sharp implement, and a strong wind.
+Crypt Chanter (LM): Dark Minded
+Whispers of the Otherworld: Character level 9, Perform 4 ranks
+Must know the name of a dead performer who was unappreciated at the time of death.
+Crypt Thing (FF): Dark Minded
+Wrappings of the Ages: Knowledge (Architecture and Engineering) 4 ranks.
+or
+create undead caster level 14th.
+Requires one humanoid corpse and a fancy outfit.
+Deathbringer (MM2): Dark Minded
+Body Assemblage: Character level 19, Craft (tailor) 4 ranks, 
+Requires at least 12 humanoid corpses or two giant corpses.
+Death Knight (MM2): Dark Minded
+Feed the Dark Gods: More powerful warriors require more sacrifices to reanimate.
+Deathlock (LM): Dark Minded, Unliving (Con 11 – 19 hp)
+Path of Blood: Character level 5, Knowledge (Arcana) 4 ranks
+Requires the body of an arcane Spellcaster.
+Deathshrieker (MM3): No modifications
+Feed the Dark Gods: Character level 17, must sacrifice 15 intelligent creatures and use equipment costing no less than 7,500 gp.
+Demilich: Dark Minded
+Craftt Wonderous Item: Caster Level 21
+Desiccator (LM): No Modifications
+A Feast Unknown: Character Level 4, Knowledge (planes) 4 ranks
+Requires the location where a Water Elemental died.
+Devourer (MM): Unliving (Con 18 – 126 hp)
+A Feast Unknown: Character level 13, Knowledge (planes) 4 ranks
+Requires the slaying of a giant and a humanoid.
+Dream Vestige (LM): Dark Minded
+Whispers of the Otherworld: Character level 18, Oneiromancy
+Requires at least 100 sapient creatures to be killed in their sleep within an hour.
+Drowned (MM3): Unliving (Con 13, loses Unholy Toughness), CR bumped to 9.
+Body Assemblage: Character level 11, Swim 4 ranks
+Requires the corpse of humanoid who died of drowning.
+Dust Wight (MM3): No Modifications
+Whispers of the Otherworld: Character level 9, Appraise 4 ranks
+Requires the corpse of a humanoid dead for at least 100 years.
+Ephemeral Swarm MM3: CR bumped to 8
+Whispers of the Otherworld: Character level 10, Knowledge (Nature) 4 ranks.
+Requires the names of 1000 dead animals.
+Effigy (MM2): No Modifications
+Whispers of the Otherworld: Character level 19 
+Must have 3 spells with the [Fire] descriptor.
+Entomber (LM): Unliving (Con 12 – 60 hp)
+A Feast Unknown: Character Level 7, Knowledge (architecture and engineering) 4 ranks
+Requires a corpse and some blue thread.
+Entropic Reaper (LM): Dark Minded
+Feed the Dark Gods: Character level 14, 12 sacrifices and 6,000 gp.
+Famine Spirit (MM2): Unliving (Con 18 – 336 hp)
+A Feast Unknown: Character Level 21, finger of death, symbol of pain
+Requires the corpse of a humanoid who starved to death within the last hour.
+Forsaken Shell (LM): No Modifications
+A Feast Unknown: Character level 8, Hide 4 ranks
+Must remove all the skin from a humanoid.
+Ghast (MM): Dark Minded, Unliving (Con 15 – 37 hp)
+A Feast Unknown: Character level 5, Heal 4 ranks
+Requires infecting and killing a humanoid of at least 3 hit dice.
+Ghost Brute (LM): No Modifications
+Whispers of the Otherworld: Variable.
+Ghostly Visage (FF): No Modifications
+Whispers of the Otherworld, Graft Flesh
+Ghoul (MM): Dark Minded, Unliving (Con 13 – 15 hp)
+A Feast Unknown: Character level 3
+Requires killing a humanoid.
+Gravecrawler (MM2): Dark Minded
+Body Assemblage: Character level 18, flesh to stone, speak with dead.
+Gravetouched Ghoul (LM): Dark Minded, Unliving (Con 16 – 57 hp)
+This monster is subsumed into the Ghoul Template presented here.
+Grim Weird (MM3): Dark Minded
+Whispers of the Otherworld: Character Level 13, Knowledge (Arcana) 4 ranks
+Huecuva (FF): No Modifications
+Wrappings of the Ages: Knowledge (religion) 4 ranks
+Must have the corpse of a Blackguard, Cleric, Druid, Favored Soul, Monk, or Paladin.
+Hulking Corpse (LM): No Modifications
+Body Assemblage: Character Level 11
+Requires the corpse of a giant.
+Hullathoin (FF): Unliving (Con 26 – 232 hp)
+Feed the Dark Gods: Character Level 17, 15 sacrifices and 7,500 gp.
+Hunefer (ELH): Dark Minded
+Wrappings of the Ages: Character level 27, Knowledge (Religion) 10 ranks
+Must have the body of a demigod.
+Jahi (MM2): Dark Minded
+Whispers of the Otherworld: Character level 18, Bluff 10 ranks
+Lavawight (ELH): Unliving (Con 16 – 304 hp)
+A Feast Unknown: Character level 25
+Requires a humanoid of at least 16 hit dice and access to a pool of magma.
+Lich (MM): Dark Minded
+Craft Wondrous Item: Caster Level 11.
+Morhg (MM): No Modifications
+Body Assemblage: Character level , 
+Mummy (MM): Dark Minded
+Wrappings of the Ages: Character level 7, Heal 4 ranks
+Murk (LM): No Modifications
+Whispers of the Otherworld: Character level 5, Sense Motive 4 ranks
+Necromental (LM): No Modifications
+Wrappings of the Ages: Variable
+Necronaut (MM3): No Modifications
+Body Assemblage: Character level 16, Knowledge (Engineering) 4 ranks
+Necropolitan (LM): Dark Minded, Unliving
+Path of Blood: Knowledge (Arcana) 4 ranks
+Nightshades (MM): Dark Minded
+Feed the Dark Gods: Sacrifices variable.
+Plagueblight (LM): Dark Minded, Unliving (Con 15 – 57 hp)
+Body Assemblage: Character level 8, contagion
+Plague Spewer (MM3): No Modifications
+Path of Blood: Character level 12, Heal 4 ranks
+Quell (LM): Dark Minded
+Path of Blood: Character level 5, Knowledge (Religion) 4 ranks
+Quth-Maren (FF): Dark Minded, Unliving (Con 15 – 85 hp)
+A Feast Unknown: Character level 9, must strip the skin off a humanoid
+Ragewind (MM2): No Modifications
+Whispers of the Otherworld: Character level 21, Proficiency in all martial weapons
+Raiment (LM): No Modifications
+Wrappings of the Ages: Character level 3, Craft (tailoring) 4 ranks
+Revived Fossil (LM): No Modifications
+Wrappings of the ages: Variable requirements.
+Salt Mummy (MM3): Dark Minded, Unliving (Con 16, loses Unholy Toughness)
+Wrappings of the Ages: Character level 10, desiccate
+Shadow (MM): No Modifications
+Whispers of the Otherworld: Character level 5, Hide 4 ranks
+Shadow of the Void (ELH): Dark Minded
+Whispers of the Otherworld: Character level 28, Survival 10 ranks
+Shape of Fire (ELH): Dark Minded
+Whispers of the Otherworld: Character level 28, Knowledge (planes) 10 ranks
+Skeletons (MM): No Modifications
+Body Assemblage: Variable requirements
+or
+Animate Dead
+Skin Kite (LM): No Modifications
+Body Assemblage: Character level 5, Craft (Tailoring) 4 ranks
+Skirr (LM): Unliving (Con 19 – 94 hp)
+Wrappings of the Ages: Character level 9, Craft (alchemy) 4 ranks
+Skulking Cyst (LM): Unliving (Con 15 – 34 hp)
+necrotic cyst
+Slaughter Wight (LM): Unliving (Con 13 – 153 hp)
+A Feast Unknown: Character Level 10, BAB +7
+Slay Mate (LM): Dark Minded, Unliving (Con 11)
+You can't make this one.
+Spawn of Kyuss (MM2): No Modifications
+A Feast Unknown: Character level 7, Knowledge (Religion) 4 ranks
+Specter (MM): No Modifications
+Whispers of the Otherworld: Character level 9, Bluff 4 Ranks
+Spectral Lyricist (LM): Dark Minded
+Whispers of the Otherworld: Character level 6, Perform 4 ranks
+Swordwraith (FF): Darkminded, Unliving (Con 14 – 42 hp)
+Whispers of the Otherworld: Must have the corpse of a mercenary warrior. 
+Tomb Mote (LM): No Modifications
+Wrappings of the Ages: Character level 4, Heal 4 ranks
+Ulgurstasta (FF): Unliving (Con 30 – 280 hp), upon reaching an Int of 10, the Ulgurstasta also has the Darkminded subtype.
+Feed the dark Gods: An Ulgurstasta is created at Intelligence 1, but still requires 11 sacrifices.
+Vampires (MM): Dark Minded, Unliving (variable Con)
+Path of Blood: More powerful vampires require more powerful characters to create.
+Vampire Spawn (MM): Unliving (Con 13 – 33 hp)
+Path of Blood: Character level 6, must sacrifice a humanoid of less than 5th level.
+Vasuthant (MM3): No Modifications
+Whispers of the Otherworld: Character level 4 (19 for Horrific Vasuthant), darkness
+Visage (LM): Dark Minded, Unliving (Con 12 – 99 hp)
+A Feast Unknown: Character level 11, knowledge (planes) 4 ranks
+Voidwraith (LM): No Modifications
+Whispers of the Otherworld: Character level 8, Knowledge (the planes) 4 ranks
+Wheep (LM): No Modifications
+Path of Blood: Character level 13, Intimidate 4 ranks
+Wight (MM): Unliving (Con 13 – 28 hp)
+Any creature slain by negative levels can rise as a Wight
+Winterwight (ELH): Unliving (Con 16 – 304 hp)
+A Feast Unknown: Character level 25
+Requires a humanoid of at least 16 hit dice and access to Black Ice.
+Wraith (MM): Dark Minded
+Whispers of the Otherworld: Character level 7 (13 for Dread Wraith)
+Zombie (MM): No Modifications
+Body Assemblage: Variable requirements
+or
+Animate Dead
+

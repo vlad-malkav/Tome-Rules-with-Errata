@@ -1,0 +1,126 @@
+%%%%%%%%%%%%%%%%%%%%%%%%
+%%Race Chapter Formatting
+%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\race}{placeholder}
+
+\newcommand{\racedescription}[1]{\indent\ability{Physical Description}{#1}}
+\newcommand{\racepersonality}[1]{\indent\ability{Personality}{#1}}
+\newcommand{\racesociety}[1]{\indent\ability{Society}{#1}}
+\newcommand{\racealignment}[1]{\indent\ability{Alignment}{#1}}
+
+\newcommand{\type}[1]{\ability{Type}{#1}\\ }
+\newcommand{\size}[1]{\ability{Size}{#1}\\ }
+\newcommand{\speed}[1]{\ability{Speed}{#1 feet}\\ }
+\newcommand{\scores}[1]{\ability{Racial Ability Score Modifiers}{#1}\\ }
+\newcommand{\racialtraits}[1]{~\\*\ability{\race ~Special Abilities}{#1}\\ }
+\newcommand{\racetrait}[2]{\newline\indent\ability{#1}{#2} }
+\newcommand{\senses}[1]{\ability{Senses}{#1}\\ }
+\newcommand{\autolanguages}[1]{\ability{Automatic Languages}{#1}\\ }
+\newcommand{\bonuslanguages}[1]{\ability{Bonus Languages}{#1}\\ }
+\newcommand{\favoredclasses}[1]{\ability{Favored Classes}{#1}\\ }
+\newcommand{\male}[4]{Male &#1 &#2 &#3 &#4\\ }
+\newcommand{\female}[4]{Female &#1 &#2 &#3 &#4\\ }
+
+\newcommand{\racedatastart}{
+\noindent
+\begin{minipage}[t]{\linewidth}
+\vspace{-.5em}
+\begin{multicols}{2}
+}
+
+\newcommand{\racedataend}{\
+\end{multicols}
+\end{minipage}
+}
+
+\newenvironment{racetable}
+{
+\tabulinesep=1mm
+\renewcommand\arraystretch{1.4}
+\noindent
+\begin{tabu} to \linewidth {X}
+\header\textbf{\race ~Racial Traits} \\ 
+\hline
+\end{tabu}
+\rowcolors{1}{colortwo}{colorone}
+\begin{tabu} to \linewidth {X [1, l]}
+}{
+\hline
+\end{tabu}
+}
+
+\newcommand{\agetable}[4]{
+\columnbreak
+\renewcommand\arraystretch{1.4}
+\tabulinesep=1mm
+\noindent
+\begin{tabu} to \linewidth {X}
+\header\textbf{\race ~Starting Age} \\ \hline
+\end{tabu}
+\rowcolors{1}{colortwo}{colorone}
+\begin{tabu} to \linewidth {X X X X}
+\textbf{Adulthood:} &\textbf{Simple:} &\textbf{Moderate:} &\textbf{Complex:} \\
+#1 Years &#2 &#3 &#4 \\ \hline
+\end{tabu}
+}
+
+\newenvironment{heightweighttable}
+{
+\tabulinesep=1mm
+\renewcommand\arraystretch{1.4}
+\noindent
+\begin{tabu} to \linewidth {X}
+\header\textbf{\race ~Height and Weight} \\ \hline
+\end{tabu}
+\vspace{-1pt}
+\rowcolors{1}{colortwo}{colorone}
+\begin{tabu} to \linewidth {X X X X X}
+\textbf{Gender} &\textbf{Base Height} &\textbf{Height Mod.} &\textbf{Base Weight} &\textbf{Weight Mod.} \\
+}{
+\hline
+\end{tabu}
+}
+
+\newenvironment{raceleft}
+{
+\vspace{0pt}
+\begin{minipage}[t]{0.5\linewidth}
+}{
+\end{minipage}
+}
+
+\newenvironment{raceright}
+{\begin{minipage}[t]{0.5\linewidth}
+\vspace{0pt}
+}{
+\end{minipage}
+}
+
+\newenvironment{racebox}
+{
+\vspace{0pt}
+%\nointerlineskip
+\begin{minipage}{\textwidth}
+}{
+\end{minipage}
+}
+
+
+\chapter{Races}
+
+\input{phb/races/aasimar}
+\input{phb/races/drow}
+
+\input{phb/races/dwarf}
+\input{phb/races/elf}
+\input{phb/races/feytouched}
+\input{phb/races/gnome}
+\input{phb/races/goblin}
+\input{phb/races/half-elf}
+\input{phb/races/halfling}
+\input{phb/races/half-orc}
+\input{phb/races/hobgoblin}
+\input{phb/races/human}
+\input{phb/races/kobold}
+\input{phb/races/orc}
+\input{phb/races/tiefling}

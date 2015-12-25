@@ -1,0 +1,191 @@
+\documentclass[12pt,oneside,onecolumn,openany,final]{memoir}
+
+% Adjust the size of pages.
+\setlength{\paperheight}{11in}
+\setlength{\paperwidth}{8in}
+\setstocksize{\paperheight}{\paperwidth}
+\setlrmarginsandblock{.5in}{.5in}{*}
+\setulmarginsandblock{.5in}{.5in}{*}
+\checkandfixthelayout{}
+
+% Makes the Table of Contents be two columns
+% The List of Tables and List of Figures will also be two columns.
+\usepackage[toc,lot,lof]{multitoc}
+
+% Prevents ligatures in all cases
+\usepackage{microtype}
+\DisableLigatures{encoding = *, family = *}
+
+% Provides for advanced command re-arrangement
+\usepackage{letltxmacro}
+
+% Provides indexing support
+% All index entries will be in a single index.
+\usepackage{makeidx}
+\makeindex{}
+
+% Adds color support
+\usepackage[table]{xcolor}
+
+% Adds compact versions of itemize, description, and list
+\usepackage{mdwlist}
+
+% Font Selection
+\usepackage[T1]{fontenc}
+\usepackage[bitstream-charter]{mathdesign}
+
+% Improves the ability to define new commands.
+\usepackage{xparse}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Imports that should come at the end, and in a specific ordering.
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Glossary Support
+% The Glossary will appear in the TOC
+% The Glossary will not include a list of page numbers of each appearance
+% All glossary entries will be in a single glossary
+\usepackage[toc,nonumberlist]{glossaries}
+\makeglossaries{}
+\glsdisablehyper{}
+\input{glossary-supertome}
+
+% Adds hyperlink support within the document
+% Internal links are colored blue
+% External URLs are a reddish color.
+% The bookmarks of the file will go to depth 2
+% The default view of the PDF is 100% zoom
+\definecolor{URLcolor}{RGB}{200,0,50}
+\usepackage[colorlinks=true,linkcolor=blue,urlcolor=URLcolor,bookmarksdepth=2,pdfstartview={XYZ null null 1.00}]{hyperref}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% End of Import Section %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\input{commands-supertome}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Title Page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+\begin{center}
+\textsc{\Large}\\[0.25cm]
+\rule{\linewidth}{0.5mm} \\[0.7cm]
+\fontsize{30}{30} \selectfont SuperTome\\[.35cm]
+\fontsize{16}{18} \selectfont \guillemotleft{} High Powered High Fantasy \guillemotright{}\\
+\rule{\linewidth}{0.5mm} \\[0.7cm]
+%\includegraphics[clip,trim=1cm 1cm 1cm 1cm,width=\linewidth]{images/example.jpg}
+\vfill
+\normalsize{\today}
+\end{center}
+
+\pagebreak
+\sffamily
+\pagestyle{plain}
+\raggedbottom
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Table of Contents
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\contentsname}{Table of Contents}
+\setcounter{tocdepth}{1}
+\small{\tableofcontents}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Main Content
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\clearpage{}
+\input{introduction/intro-index}
+
+\clearpage{}
+\input{races/races-index}
+
+\clearpage{}
+\input{classes-pc/classes-pc-index}
+
+\clearpage{}
+\input{skills/skills-index}
+
+\clearpage{}
+\input{feats/feats-index}
+
+\clearpage{}
+\input{equipment/equipment-index}
+
+\clearpage{}
+\input{background/background-index}
+
+\clearpage{}
+\chapter{Exploration}
+\clearpage{}
+\chapter{Combat}
+\clearpage{}
+\chapter{Magical Theory}
+\clearpage{}
+\chapter{Magic Items}
+\clearpage{}
+\chapter{Character Advancement}
+\clearpage{}
+\chapter{Prestige Classes}
+\clearpage{}
+\chapter{Star Sailing}
+\clearpage{}
+\chapter{Planeswalking}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Final Details
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\appendix{}
+\appendixpage{}
+
+\makeatletter{}
+\renewcommand{\@makechapterhead}[1]{%
+\vspace*{0 pt}{%
+\raggedright \normalfont \fontsize{32}{32} \selectfont \bfseries%
+\ifnum \value{secnumdepth}>-1%
+  \if@mainmatter \vspace{-8pt} {\fontsize{20}{20} \selectfont Appendix \thechapter:}\\[8pt]%
+  \fi%
+\fi
+\hspace{0.65cm} #1\par\nobreak\vspace{20 pt}%
+}}
+\makeatother{}
+
+\clearpage{}
+\chapter{Spells}
+\clearpage{}
+\chapter{Monsters}
+\clearpage{}
+\chapter{Advancing Monsters}
+
+\clearpage{}
+\input{classes-npc/classes-npc-index}
+
+\clearpage{}
+\input{ogl-supertome}
+
+\clearpage{}
+\phantomsection{}
+\glsaddall{}
+\glossarystyle{altlist}
+\printglossaries{}
+
+\clearpage{}
+\phantomsection{}
+\listoftables{}
+
+\clearpage{}
+\phantomsection{}
+\printindex{}
+
+\end{document}

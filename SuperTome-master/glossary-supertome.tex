@@ -1,0 +1,42 @@
+\DeclareDocumentCommand{\newdualentry}{ O{} O{} m m m m } {
+  \newglossaryentry{gls-#3}{name={#5},text={#5\glsadd{#3}},
+    description={#6},#1
+  }
+  \newacronym[see={[Glossary:]{gls-#3}},#2]{#3}{#4}{#5\glsadd{gls-#3}}
+}
+
+\newglossaryentry{strength}
+{
+name=Strength,
+description={Strength (Str) is your character's muscle and physical power. Strength affects a character's melee attack and damage ability. Strength also limits the amount of equipment your character can carry}
+}
+
+\newglossaryentry{dexterity}
+{
+name=Dexterity,
+description={Dexterity (Dex) measures hand-eye coordination, agility, reflexes, and balance. It affects your Armor Class (how hard you are to hit), Reflex Save (how well you dodge area attacks), and Initiative (how often you go first in a fight). Many skills are also affected by Dexterity}
+}
+
+\newglossaryentry{constitution}
+{
+name=Constitution,
+description={Constitution (Con) represents your character's health and stamina. A Constitution bonus increases a character's hit points, so the ability is important for all classes}
+}
+
+\newglossaryentry{intelligence}
+{
+name=Intelligence,
+description={Intelligence (Int) determines how well your character learns and reasons}
+}
+
+\newglossaryentry{wisdom}
+{
+name=Wisdom,
+description={Wisdom (Wis) describes a character's willpower, common sense, perception, and intuition. While Intelligence represents one's ability to analyze information, Wisdom represents being in tune with and aware of one's surroundings}
+}
+
+\newglossaryentry{charisma}
+{
+name=Charisma,
+description={Charisma (Cha) measures a character's force of personality, persuasiveness, personal magnetism, ability to lead, and physical attractiveness. This ability represents actual strength of personality, not merely how one is perceived by others in a social setting}
+}

@@ -1,0 +1,352 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Armor}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\todo{Locked Gauntlets, Armor Spikes?}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Armor and Shield Traits}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%
+\subsubsection{Armor Traits}
+%%%
+
+Each type of armor has an \gameterm{Armor Category}, \gameterm{Armor Bonus}, \gameterm{Maximum Dex}, \gameterm{Armor Check Penalty}, \gameterm{Armor Stealth Penalty}, and Weight.
+
+\begin{description*}
+\item[Armor Category] Armors are split into four proficiency groups. Non-armor, Light armor, Medium armor, and Heavy armor.
+\item[Armor Bonus] This is how much wearing the armor improves your Armor Class by. Naturally, armor provides an Armor bonus to AC, so an armor bonus from another source (such as the \linkspell{Mage Armor} spell) won't stack.
+\item[Maximum Dex] Your dexterity bonus to your armor class is restricted to no more than this value. For example, Full Plate has a Maximum Dex of +1, so a character with a Dexterity bonus of +2 or more would only get 1 of that towards their AC while wearing Full Plate (total of 19, assuming no other bonuses). Maximum Dex does not affect any other use of the Dexterity Bonus, such as Initiative, Reflex Saves, or skill checks.
+\item[Armor Check Penalty (ACP)] This penalty applies to all \linkskill{Balance}, \linkskill{Climb}, \linkskill{Escape Artist}, \linkskill{Jump}, \linkskill{Sleight of Hand}, and \linkskill{Tumble} checks that you make. This penalty applies double to all \linkskill{Swim} checks that you make.
+\item[Armor Stealth Penalty (ASP)] This applies to all \linkskill{Hide} and \linkskill{Move Silently} checks that you make.
+\item[Weight] This is just how much the armor weighs.
+\end{description*}
+
+Masterwork armor has an Armor Check Penalty and Armor Stealth Penalty that's 1 point better than normal (minimum of 0).
+
+%%%
+\subsubsection{Shield Traits}
+%%%
+
+Shields are exactly like armor except with the following differences:
+
+\begin{description*}
+\item[Shield Category] Shields only come in two proficiency categories. Normal shields are just "Shields", and over-sized shields are known as "Great Shields".
+
+\item[Shield Bonus] Instead of an Armor bonus, shields provide a Shield type bonus to armor class.
+
+\item[Maximum Dex] Shields don't limit the amount of dexterity that you can apply to your armor class.
+\end{description*}
+
+Shields use the same rules for Armor Check Penalty and Armor Stealth Penalty as Armor. If you're wearing armor and also using a shield then combine the ACP and ASP of the two items before comparing it to your BAB (see below). If you're not proficient with both your armor and your shield then you take the non-proficiency penalty for each item (your ACP is a total of 8 points worse than normal).
+
+%%%
+\subsubsection{Non-proficiency}
+%%%
+
+If you are not-proficient with the armor or shield that you're wearing then its Armor Check Penalty counts as being 4 points worse than normal.
+
+Just because you're proficient in heavy armor doesn't mean that you're familiar with every piece of heavy armor you encounter. Mechanus Armor is very protective, but chances are slim that a character has actually encountered this equipment before.
+
+In general, when a character runs into some new armor (as they will from time to time), they will continue to be non-proficient with it for about a day as they "break it in". So to make full use of your new Chitin Carapace, you'll need two things: Medium Armor Proficiency, and a day to practice with your new bug exoskeleton.
+
+%%%
+\subsubsection{Effects of High BAB}
+%%%
+
+Highly trained warriors learn about armor as well as weapons, and they can wear it better than others can. For every 2 full points that your BAB exceeds your Armor Check Penalty, reduce your armor's effective Armor Stealth Penalty by 1 and increase it's effective Maximum Dex by 1. When making this comparison, just compare the absolute values (since ACP is almost always negative and BAB is almost always positive).
+
+\textit{Example:} Fiona is a 10th level Fighter, so her BAB is +10. She's wearing Full Plate, which has an Armor Check Penalty of -6. Since her BAB is 4 points higher than her Armor Check Penalty, she counts her Maximum Dex as 2 points better than normal (total of +3) and her Armor Stealth Penalty as 2 points better than normal (total of -4) when wearing that armor.
+
+%%%
+\subsubsection{Armor Check Penalty and Movement}
+%%%
+
+When wearing armor, using a shield, or carrying a Medium or Heavy load, your movement is often affected.
+
+\begin{itemize*}
+\item If your total Armor Check Penalty is equal to or less than your BAB then you can move at your full movement rate. When running, you can move at 4 times your normal speed.
+\item If it's greater than your BAB, your movement is reduced to 2/3rds normal (rounded to the nearest 5ft). A 30ft movement speed becomes 20ft, a 20ft movement speed becomes 15ft, and so on. Also, you can only move at 3 times your normal speed when running.
+\item If it's greater than your BAB + 4, then you can't charge or run at all.
+\item If it's greater than your BAB + 10, then you can only stagger around (only a single move action or standard action each round).
+\end{itemize*}
+
+%%%
+\subsubsection{Arcane Spell Failure}
+%%%
+
+Most arcane spellcasting techniques are not well suited to armor use, this is known as \gameterm{Arcane Spell Failure}, or sometimes as simply \gameterm{Spell Failure}. For each point of armor check penalty that your armor or shield gives you there is a 5\% chance that any arcane spell that you cast with Somatic component will fail. Some classes (such as the Bard) have special class features that allows them to ignore arcane spell failure when wearing specific categories of armor. Any spell that doesn't have a Somatic component is of course also unaffected by the armor you wear.
+
+%%%
+\subsubsection{Doning and Removing Armor}
+%%%
+
+In general, it takes 1 minute per point of armor check penalty to properly don a suit of armor and adjust everything to fit your particular body as closely as possible. This takes a minimum of 1 minute for any multi-part outfits or full-body suits, even if they have an ACP of 0. If it's a single piece of clothing, such as a robe or cloak, then it's just a move action. If the armor check penalty exceeds your BAB then it takes twice as long if you don't have someone assisting you. If it exceeds your BAB+10 then you it takes five times as long without an assistant.
+
+Removing armor is much quicker. It takes 1 round per point of armor check penalty, and you don't need assistants regardless of your ACP compared to BAB. Even if you don't know how to wear it properly, you can just undo straps and wiggle out of it all on your own. Removing your armor provokes an attack of opportunity (each round, similar to a spell with a long casting time). As with equipping an outfit, it takes a minimum of 1 round remove a full-body suit or multi-part outfit, even if the outfit's ACP is 0. Removing a single piece of clothing such as a cloak or robe is a move action that doesn't provoke an attack.
+
+If you're in such an extreme hurry to get the armor off that every round counts (such as suddenly being underwater) then you can usually cut at straps, break ties, or similar, to get the armor off twice as fast. Doing so damages the armor, increasing its armor check penalty by 1, reducing its AC bonus by 1, and negating the armor's special ability, until the armor is repaired. The damage can be repaired with a Craft check, the DC is the same as to construct the armor, and it requires 1\% of the armor's base market value in new materials.
+
+It takes only a single Move action to strap a shield to your arm, or remove it. As with drawing a weapon, if your BAB is +1 or more and you're proficient with the shield then you can combine movement and equipping or removing a shield into a single action. If your BAB is +6 or more then you can equip or remove a shield as a Swift action. Equipping or removing a shield doesn't provoke an attack of opportunity.
+
+%%%
+\subsubsection{Non-Standard Armors}
+%%%
+
+The armor and shield costs listed are for Medium Humanoids. Armor for unusually big creatures, unusually little creatures, and nonhumanoid creatures have different costs and weights from those given. Refer to the appropriate line on the table and apply the multipliers to cost and weight for the armor type in question. These cost modifiers do not apply to any magical effects added to the armor or shield, just the base item. Additionally, even if the cost multiplier pushes the price above the normal 15,000gp limit, the armor doesn't become a Wish Economy item. It may take 16 times as much steel or adamantine as normal to cover a dragon in full plate, but it's still just normal steel.
+
+While shields come in different sizes, they don't have humanoid and nonhumanoid categories. Your body basically either has a limb that supports proper shield use or you don't, but there's no special designs for quadrupeds or winged creatures or anything like that like there are for armors.
+
+\begin{basictable}{Non-standard Armor Prices}{l c c c c}
+& \multicolumn{2}{c}{\textbf{Humanoid}} & \multicolumn{2}{c}{\textbf{Non-Humanoid}}\\
+\textbf{Size} & \textbf{gp} & \textbf{lb} & \textbf{gp} & \textbf{lb}\\
+Tiny or smaller\textsuperscript{1} & x\sfrac{1}{2} & x1/10 & x1  & x1/10\\
+Small & x1 & x\sfrac{1}{2} & x1 & x\sfrac{1}{2}\\
+Medium & x1 & x1 & x2 & x1\\
+Large & x2 & x2 & x4 & x2\\
+Huge & x4 & x5 & x8 & x5\\
+Gargantuan& x8 & x8 & x16 & x8\\
+Colossal & x16 & x12 & x32 & x12\\
+\multicolumn{5}{l}{\textsuperscript{1}Divide armor bonus by 2.}\\
+\end{basictable}
+
+%%%
+\subsubsection{Special Armor Materials}
+%%%
+\tagline{"I know it's stupid looking, but I get the best possible protection from having this duck sit on my head, so I'm going to let it do that."}
+
+People in Fantasy settings wear all kinds of crazy crap and call it protective gear. That's fine; we even encourage that sort of thing. What we don't encourage is people mixing and matching their metaphors. And yet, by having people keep track of separate materials and armor types -- that's exactly what happens. We've all seen Lord of the Rings, we know what Mithral Armor is supposed to be like, and what it is not supposed to be like. And making your plate mail out of Mithral isn't what things are supposed to look like -- you're supposed to get Mithral Chain.
+
+The fact is that materials naturally lend themselves to certain kinds of armor. Just as braided twigs are always going to make Wicker Armor and cured cow skin is always going to make Leather Armor, there's just a certain way that armoring yourself with Dragon Scales or Cloyster Shells is going to work. For the vast majority of materials, there is a known "right way" to wear it for protection and the only real choice is wearing more of it or less.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Non-Armors}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Anything you wear is technically a form of armor, but anything sufficiently light as to not count even as Light Armor can be worn by characters who lack armor proficiency without suffering penalties. Each clothing type listed here has a wide range of possibilities for what you might actually wear while counting as wearing that type of clothing, and there's all sorts of regional and cultural variations, as you might imagine. Most non-adventurers just wear something that counts as functional clothing during their day to day lives.
+
+\begin{basictable}{Non-Armors}{l *{4}{c} r c}
+\textbf{Name} & \textbf{AC} & \textbf{Max Dex} & \textbf{ACP} & \textbf{ASP} & \textbf{Price} & \textbf{Weight}\\
+Camouflage Clothes & +0 & +8 & -0 & -0 & 1 gp & 1 lb\\
+Fancy Clothes & +0 & +6 & -1 & -2 & 30 gp & 2 lb\\
+Functional Clothes & +0 & -- & -0 & -0 & 3 sp & 1 lb\\
+Magic Clothes & +2 & +9 & -0 & -0 & 8,000 gp & 1 lb\\
+\end{basictable}
+
+\textbf{Camouflage Clothes:} These are made with a color scheme intended to blend into a specific kind of area, such as forests, tundra, or deserts, etc. While you're in the appropriate terrain for your particular outfit, you can attempt to hide from any creature that's more than 30ft away from you even while being observed (no Bluff check required).
+
+\textbf{Fancy Clothes:} This can be any kind of military dress uniform, religious garb, noble finery, or other clothing that looks expensive and official. While wearing fancy clothes, you get a +2 to Diplomacy and Bluff, and you get a +4 to Intimidate checks with peasants. If your fancy clothes get dirty or wet or otherwise ruined then they provide no bonus until they have been properly cleaned.
+
+\textbf{Functional Clothes:} Cheap, basic, and practical, these clothes tend to have at least one useful pocket, pouch, or strap that you can slip an item into, probably more than one. You can retrieve items stored in said pockets as a free action. Unlike other armors, functional clothing has no maximum dexterity bonus at all.
+
+\textbf{Magic Clothes:} Usually a robe, or a vest, or sometimes magic shorts that never rip even when you shapeshift into a huge monster. These clothes have been magically treated so that the cloth provides a simple protection while remaining light enough to be used by those who are unskilled in the arts of armor. They are very rarely found or sold without a magic item property already added (though it is possible). Similar to fancy clothing, magic clothing provides a certain air of authority to the wearer, giving them a +1 on all Charisma checks. As with fancy clothing, if you get your magic clothes messy then you don't get the bonus on skill checks.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Light Armors}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{basictable}{Light Armors}{l *{4}{c} r c}
+\textbf{Name} & \textbf{AC} & \textbf{Max Dex} & \textbf{ACP} & \textbf{ASP} & \textbf{Price} & \textbf{Weight}\\
+Brigandine & +5 & +3 & -4 & -3 & 125 gp & 30lb\\
+Chain Shirt & +4 & +5 & -2 & -4 & 100 gp & 25lb\\
+Cord Armor & +2 & +4 & -1 & +0 & 20 gp & 15 lb\\
+Darkleaf Armor & +4 & +6 & -1 & +0 & 600 gp & 15 lb\\
+Gray Armor & +3 & +8 & +0 & +0 & 1,000 gp & 15 lb\\
+Leather Armor & +2 & +7 & +0 & +0 & 10 gp & 15 lb\\
+Mithril Shirt & +5 & +6 & +0 & +0 & 1,100 gp & 15 lb\\
+Padded Armor & +1 & +8 & +0 & +0 & 5 gp & 10 lb\\
+Spiderweb Clothing & +4 & +6 & -1 &  -1 & 300 gp & 10 lb\\
+Still Suit & +2 & +5 & -3 & -2 & 350 gp & 15 lb\\
+Studded Leather Armor & +3 & +6 & -1 & -1 & 25 gp & 20 lb\\
+Wicker Armor & +3 & +7 & -1 & -6 & 15 gp & 15 lb\\
+Winter Clothes & +2 & +4 & -4 & -4 & 30 gp & 10 lb\\
+\end{basictable}
+
+\textbf{Brigandine:} This is essentially a chain shirt with a studded leather vest that goes over top of it.
+
+\textbf{Chain Shirt:} A shirt of interlocking metal rings that covers your torso and arms.
+
+\textbf{Cord Armor:} A series of ropes and knots wrapped all around your body.
+
+\textbf{Darkleaf Armor:} A suit of armor made out of the leaves from darkwood trees.
+
+\textbf{Gray Armor:} This armor is made from the skin and hide of various corporeal undead (mostly Zombies).
+
+\textbf{Leather Armor:} This armor is made of thick sheets of leather (usually from a domestic animal) that has been partially hardened in places to provide additional protection.
+
+\textbf{Mithril Shirt:} A shirt of finely interlocked mithril rings. It's the same basic design as a normal chain shirt, but Mithril instead of iron or steel.
+
+\textbf{Padded Armor:} This is an outfit of cloth and thick pads all around your body.
+
+\textbf{Spiderweb Clothing:} Woven from spider silk, usually by the drow, this armor covers your entire body.
+
+\textbf{Still Suit:} A desert outfit that covers over your entire body to keep the sand out and water in.
+
+\textbf{Studded Leather Armor:} Similar to leather armor, but with metal studs added for some additional protection.
+
+\textbf{Wicker Armor:} This stuff is a series of wicker segments that go all around your body and form into a suit of armor.
+
+\textbf{Winter Clothes:} Very heavy clothing designed to keep you warm even in cold environments.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Medium Armors}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{basictable}{Medium Armors}{l *{4}{c} r c}
+\textbf{Name} & \textbf{AC} & \textbf{Max Dex} & \textbf{ACP} & \textbf{ASP} & \textbf{Price} & \textbf{Weight}\\
+Adamantine Breastplate & +7 & +3 & -6 & -2 & 5,000 gp & 30 lb\\
+Animal Spirit Armor & +4 & +3 & -3 & -3 & 750 gp & 25 lb\\
+Astral Silk Armor & +5 & +4 & -1 & -5 & 900 gp & 20 lb\\
+Bone Armor & +3 & +4 & -3 & -5 & 450 gp & 30 lb\\
+Breastplate & +5 & +4 & -4 & -2 & 200 gp & 30 lb\\
+Chainmail & +5 & +4 & -3 & -5 & 150 gp & 40 lb\\
+Chitin Carapace & +5 & +4 & -3 & -1 & 500 gp & 30 lb\\
+Dragonscale Suit & +6 & +5 & -4 & -2 & 1,400 gp & 25 lb\\
+Elaborate Gown & +1 & +3 & -5 & -8 & 300 gp & 15 lb\\
+Hide Armor & +3 & +4 & -3 & -3 & 15 gp & 25 lb\\
+Lamellar Armor & +4 & +4 & -4 & -4 & 190 gp & 30 lb\\
+Lobster Mail & +5 & +2 & -5 & -3 & 350 gp & 25 lb\\
+Mithril Suit & +6 & +5 & -2 & -1 & 5,000 gp & 20 lb\\
+Rime Hauberk & +5 & +3 & -5 & -3 & 150 gp & 25 lb\\
+Scale Mail & +4 & +3 & -4 & -2 & 50 gp & 30 lb\\
+\end{basictable}
+
+\textbf{Adamantine Breastplate:} This is like a normal breastplate, but forged from adamantine instead.
+
+\textbf{Animal Spirit Armor:} This is the high end version of Hide Armor. It usually includes more of the animal's original parts still being attached to the armor, such as a great cat's paws, an animal head as the helmet, things like that.
+
+\textbf{Astral Silk Armor:} This is a full body suit woven from the silk of astral spiders. It must be created on the astral plane but can then be taken anywhere, and these suits are traded across the multiverse. Even once finished, the silk strands shift colors slowly as the wearer travels from place to place, in response to various planar fluxes.
+
+\textbf{Bone Armor:} Created either from extremely strong bones of a monster, or bones that have been processed to be similarly strong (either Necromantically or Alchemically). It looks like having a huge skeleton wrapped around you, and sometimes it clatters a lot.
+
+\textbf{Breastplate:} A few large plates of iron or steel cover your torso, while smaller plates and sections of chainmail and leather protect your limbs and joints.
+
+\textbf{Chainmail:} This is like a chainshirt, a set of interlocking chains that form a protective metal barrier, except that it covers your entire body.
+
+\textbf{Chitin Carapace:} This is kinda like a breastplate, but instead of being made from metal it's made from the exoskeletons of giant bugs.
+
+\textbf{Dragonscale Suit:} A skintight bodysuit of dragon scales backed by dragonhide and other leathers. The results usually look kinda like an alligator's scales.
+
+\textbf{Elaborate Gown:} Any sort of fancy costume or ornamental outfit that's large and bulky without being protective. The exact styles vary extremely between regions and cultures. The common factor is that they're worn not because they're protective, but because the wearer wants to look good at fancy parties and probably has enough guards to not worry so much about personal protection.
+
+\textbf{Hide Armor:} By layering several animal hides all around your body you get a moderate amount of protection. It's kinda like leather armor, but more. People usually only wear this sort of stuff if they can't find anything better.
+
+\textbf{Lamellar Armor:} This is a series of small segments of laminated leather sewn together like a set of scales until there's enough to cover your entire torso.
+
+\textbf{Lobster Mail:} An armor suit made from the shells of actual lobsters as well as other crustaceans and shellfish. It provides no direct swimming ability, but does allow the wearer to breathe underwater. Also, this armor's Armor Check Penalty doesn't apply to Swim checks.
+
+\textbf{Mithral Suit:} This is the Mithral version of Chainmail. It's made of very fine interwoven rings, and covers your whole body.
+
+\textbf{Rime Hauberk:} This armor is like chainmail, but is made from rings of magically preserved ice instead of rings of metal. The ice of this armor is just as resistant to heat and melting as steel is.
+
+\textbf{Scale Mail:} A series of small metal scales are sewn to a leather backing, the results look like a snake's scales.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Heavy Armors}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{basictable}{Heavy Armors}{l *{4}{c} r c}
+\textbf{Name} & \textbf{AC} & \textbf{Max Dex} & \textbf{ACP} & \textbf{ASP} & \textbf{Price} & \textbf{Weight}\\
+Adamant Carapace & +11 & +2 & -9 & -4 & 9,000 gp & 50 lb\\
+Coral Armor & +5 & +2 & -3 & -6 & 1,300 gp & 45 lb\\
+Demon Armor & +9 & +5 & -10 & -3 & 10,000 gp & 40 lb\\
+Deep Clay Armor & +6 & +3 & -4 & -5 & 4,000 gp & 50 lb\\
+Dragonscale Plate & +9 & +4 & -5 & -2 & 3,000 gp & 45 lb\\
+Full Plate & +8 & +1 & -6 & -6 & 1,500 gp & 50 lb\\
+Great Armor & +7 & +2 & -6 & -5 & 1,400 gp & 50 lb\\
+Half-plate & +7 & +2 & -5 & -7 & 600 gp & 50 lb\\
+Hoplite Armor & +6 & +3 & -5 & -5 & 500 gp & 45 lb\\
+Mechanus Armor & +12 & +0 & -8 & -8 & 10,000 gp & 60 lb\\
+Silk Steel Armor & +7 & +3 & -4 & -1 & 4,500 gp & 45 lb\\
+Stone Plate & +10 & +0 & -9 & -11 & 1,750 gp & 60 lb\\
+Sun Plate & +9 & +6 & -10 & -8 & 6,000 gp & 40 lb\\
+\end{basictable}
+
+\textbf{Adamant Carapace:} This armor fully encases every part of your body in a set of precisely interlocking adamantine segments. You basically look like Iron Man or something. There aren't any exposed chain or leather bits at all.
+
+\textbf{Coral Armor:} Made from coral segments that have been arranged to mostly encase the body. The actual arrangement of coral protrusions varies wildly from suit to suit.
+
+\textbf{Demon Armor:} Despite the name, the body of any fiend can be turned into this armor. Demon armor is made by carefully removing all of a demon's hide as a single suit. The demon is kept alive during this process, and the rest of the body is destroyed once the skin is removed. The demon's soul is left connected to the resulting suit of armor.
+
+\textbf{Deep Clay Armor:} Made from a special clay found on earthy protrusions into the Water Elemental Plane, this armor is a series of clay plates that never seem to fully dry.
+
+\textbf{Dragonscale Plate:} This is a complete suit of platemail made from dragon hide.
+
+\textbf{Full Plate:} Carefully interlocking steel plates cover your whole body, giving you the maximum possible protection that steel can provide while still allowing for a fair deal of flexibility.
+
+\textbf{Great Armor:} This armor is made from a series of hard leather segments that are coated in metal scales. The segments are not fully connected, allowing for a great deal more flexibility than with full plate. Great Armor almost always include a horned helmet and mask.
+
+\textbf{Half-plate:} This armor is somewhere in between a suit of breastplate and a suit of full plate.
+
+\textbf{Hoplite Armor:} This armor consists of a stiff torso covering made from iron, steel, or bronze, as well as an armored skirt  and helmet.
+
+\textbf{Mechanus Armor:} Made of various metals, various clockwork mechanisms, and quite a bit of magic, this highly oversized armor is less something that you put on, and more something that you get into. The wearer enters the armor from either the front or back (depending on the specific design) and then the hatch closes and the user is sealed inside the mechanical exoskeleton. Wearers of this armor count as one size category larger than normal, including all the normal stat changes. All of the wearer's senses are extended through the suit, allowing them their full normal vision, sense of touch, sense of smell, etc. The suit filters its own air supply from the local atmosphere, blocking out any poison gases. In situations where there is no air at all (underwater, sealed cavern, etc) the user counts as being able to hold their breath for ten times as long as normal.
+
+\textbf{Silk Steel Armor:} This armor is made of silk steel, a metallic fabric woven from the silk of sword spiders. It's about as flexible as heavy denim, but just as impenetrable as actual steel plates.
+
+\textbf{Stone Plate:} This armor is made of polished stone segments, usually by dwarves.
+
+\textbf{Sun Plate:} A form of plate armor made from hardened sunlight.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Shields}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Shields go on your arm, taking up your offhand. Equipping or removing a shield takes the same amount of time as drawing a weapon. You can perform a shield-bash with a shield (1d6 damage for Medium creatures), though you lose the shield's bonus during the round that you do. If you shield-bash while fighting with a weapon in your main hand, then use the rules for Two-Weapon Fighting.
+
+\begin{basictable}{Shields}{l *{3}{c} r c}
+\textbf{Name} & \textbf{AC} & \textbf{ACP} & \textbf{ASP} & \textbf{Price} & \textbf{Weight}\\
+Adamantine Shield & +3 & -1 & +0 & 2,000gp & 6 lb\\
+Buckler & +1 & -1 & +0 & 15 gp & 5 lb\\
+Dragonscale Shield & +3 & -1 & -6 & 350 gp & 5 lb\\
+Force Shield & +3 & +0 & +0 & 1,800 gp & 1 lb\\
+Mithral Shield & +2 & +0 & +0 & 1,020 gp & 3 lb\\
+Steel Shield & +2 & -1 & +0 & 20 gp & 6 lb\\
+Vine Shield & +1 & -1 & +0 & 45 gp & 4 lb\\
+Wooden Shield & +1 & -1 & +0 & 7 gp & 5 lb\\
+\end{basictable}
+
+\textbf{Adamantine Shield:} This shield is forged entirely from adamantine.
+
+\textbf{Buckler:} This small shield is made of wood with leather straps. You can use a buckler on one arm without taking up the hand of that arm. However, actions using that arm (particularly the use of a weapon) take a -1 while there's a buckler on your arm. Getting a Masterwork Buckler doesn't eliminate the -1 penalty. If you shield-bash with a bucklet they do the damage of a weapon one size smaller than normal (1d4 for Medium creatures).
+
+\textbf{Dragonscale Shield:} This shield is constructed from some kind of dragon scales. It grants Energy Resistance equal to the shield's Shield Bonus (including any Enhancement Bonus if it's a magical shield). The Energy Resistance from this shield stacks with any you might have from wearing other Dragonscale items. The type of the Energy Resistance granted depends on the kind of scales that the shield is built from.
+
+\textbf{Force Shield:} The body of this shield is an invisible force effect, with two metal loops embedded into the shield so that you can use it. Though the shield is naturally invisible, most of these have some sort of markings on them so that the user can more easily keep track of where the edges are.
+
+\textbf{Mithral Shield:} A shield forged from Mithral.
+
+\textbf{Steel Shield:} A shield forged from steel.
+
+\textbf{Vine Shield:} A shield forged from darkleaves and vines all sewn together.
+
+\textbf{Wooden Shield:} A shield carved from a sturdy and dense kind of wood.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Great Shields}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Great Shields are generally quite oversized compared to a normal shield. They require their own proficiency, and you can't use them while mounted. You also can't shield-bash with a great shield.
+
+\begin{basictable}{Great Shields}{l *{3}{c} r c}
+\textbf{Name} & \textbf{AC} & \textbf{ACP} & \textbf{ASP} & \textbf{Price} & \textbf{Weight}\\
+Bone Wall & +3 & -6 & -2 & 150 gp & 10 lb\\
+Crystal Aegis & +3 & -3 & -1 & 2,000 gp & 15 lb\\
+Ice Aegis & +5 & -5 & -3 & 1,600 gp & 15 lb\\
+Kappa Shell & +3 & -8 & -5 & 500 gp & 25 lb\\
+Kite Shield & +4  & -5 & -2 & 120 gp & 15 lb\\
+Tower Shield & +4 & -6 & -2 & 30 gp & 45 lb\\
+\end{basictable}
+
+\textbf{Bone Wall:} An oversized shield made from the heavy bones of a dire animal, demon, or other supernatural creature.
+
+\textbf{Crystal Aegis:} An oversized shield carved from a form of living crystal.
+
+\textbf{Ice Aegis:} Magical techniques are used to fix this shield carved from ice into an unmelting form.
+
+\textbf{Kappa Shell:} The back shell of a Kappa (it's like a giant turtle shell), you wear this on your back rather than on your arm. It provides its full bonus while not using up either of your hands.
+
+\textbf{Kite Shield:} A large shield that tapers down to a point near the bottom. Unlike other Great Shields, a Kite Shield can be used while you're mounted.
+
+\textbf{Tower Shield:} Made mostly from a wood backing covered in metal bands, a tower shield is basically the size of a door.
